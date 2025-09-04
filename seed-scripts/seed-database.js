@@ -46,6 +46,52 @@ async function seedDatabase() {
     console.log("Creating relationship mappings between tables...");
     const mappings = createRelationshipMappings(excelData);
 
+    // Create a map of organizations for later reference
+    console.log(
+      "Checking organisations table and creating entries if needed..."
+    );
+    const orgMap = {};
+
+    // Process each company and ensure it exists in the organisations table
+    for (const companyKey of Object.keys(mappings.companyMap)) {
+      const company = mappings.companyMap[companyKey];
+      const companyData = company.data;
+      const companyName = companyData.nameEn || "";
+
+      // Check if organisation already exists
+      const [orgRows] = await connection.execute(
+        "SELECT id FROM organisations WHERE name = ?",
+        [companyName]
+      );
+
+      let orgId;
+
+      if (orgRows.length > 0) {
+        // Organisation exists, use its ID
+        orgId = orgRows[0].id;
+        console.log(
+          `Found existing organisation "${companyName}" with ID ${orgId}`
+        );
+      } else {
+        // Organisation doesn't exist, create it
+        const now = formatDate(new Date());
+        const [result] = await connection.execute(
+          `INSERT INTO organisations 
+          (name, sector, date_created, date_modified) 
+          VALUES (?, ?, ?, ?)`,
+          [companyName, companyData.sector || "", now, now]
+        );
+
+        orgId = result.insertId;
+        console.log(
+          `Created new organisation "${companyName}" with ID ${orgId}`
+        );
+      }
+
+      // Store orgId in companyMap for reference
+      mappings.companyMap[companyKey].orgId = orgId;
+    }
+
     // Start transaction
     await connection.beginTransaction();
 
@@ -177,6 +223,10 @@ async function seedDatabase() {
     for (const request of mappings.changeRequests) {
       const now = formatDate(new Date());
 
+      // Get the organization ID from the company map
+      const company = mappings.companyMap[request.companyKey];
+      const orgId = company ? company.orgId : null;
+
       await connection.execute(
         `
         INSERT INTO PortalUserChangeRequests (
@@ -187,7 +237,7 @@ async function seedDatabase() {
           request.code,
           request.type,
           request.referenceId,
-          request.organizationId,
+          orgId, // Use the ID from organisations table
           now,
           now,
         ]
@@ -228,8 +278,108 @@ async function seedDatabase() {
       );
     }
 
-    // Optionally seed the remaining tables (PortalUserProfiles, PortalCompanyProfiles, PortalCeoProfiles)
-    // Here you would use similar patterns but derive data from the already inserted records
+    // 7. Seed PortalCompanyProfiles
+    console.log("Seeding PortalCompanyProfiles...");
+    for (const companyKey of Object.keys(mappings.companyMap)) {
+      const company = mappings.companyMap[companyKey];
+      const companyData = company.data;
+      const now = formatDate(new Date());
+      const referenceId = company.index + 1;
+      const orgId = company.orgId; // Use the organization ID we retrieved/created earlier
+
+      await connection.execute(
+        `
+        INSERT INTO PortalCompanyProfiles (
+          nameTh, nameEn, sector, code, addressTh, addressEn, phone, 
+          referenceId, organizationId, createdAt, updatedAt
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      `,
+        [
+          companyData.nameTh || null,
+          companyData.nameEn || null,
+          companyData.sector || null,
+          companyData.code || null,
+          companyData.addressTh || null,
+          companyData.addressEn || null,
+          companyData.phone || null,
+          referenceId,
+          orgId, // Use the ID from organisations table
+          now,
+          now,
+        ]
+      );
+    }
+
+    // 8. Seed PortalCeoProfiles if we have CEO data
+    console.log("Seeding PortalCeoProfiles...");
+    for (const ceoIndex of Object.keys(mappings.ceoMap)) {
+      const ceoMapping = mappings.ceoMap[ceoIndex];
+      const ceoData = ceoMapping.ceoData;
+      const now = formatDate(new Date());
+
+      // Get the organization ID for this CEO's company
+      const company = Object.values(mappings.companyMap).find(
+        (c) => c.index + 1 === ceoMapping.referenceId
+      );
+      const orgId = company ? company.orgId : null;
+
+      if (orgId) {
+        await connection.execute(
+          `
+          INSERT INTO PortalCeoProfiles (
+            fullNameTh, fullNameEn, positionTh, positionEn, phone, email,
+            organizationId, createdAt, updatedAt
+          ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        `,
+          [
+            ceoData.fullNameTh || null,
+            ceoData.fullNameEn || null,
+            ceoData.positionTh || null,
+            ceoData.positionEn || null,
+            ceoData.phone || null,
+            ceoData.email || null,
+            orgId, // Use the ID from organisations table
+            now,
+            now,
+          ]
+        );
+      } else {
+        console.warn(`No organization ID found for CEO: ${ceoData.fullNameEn}`);
+      }
+    }
+
+    // 9. Seed PortalUserProfiles
+    // Assuming we'll create one user profile for each user request
+    console.log("Seeding PortalUserProfiles...");
+    for (const userIndex of Object.keys(mappings.userRequestMap)) {
+      const userMapping = mappings.userRequestMap[userIndex];
+      const userData = userMapping.userData;
+      const now = formatDate(new Date());
+
+      // For simplicity, generate a userId that matches the index
+      const userId = parseInt(userIndex) + 1;
+
+      await connection.execute(
+        `
+        INSERT INTO PortalUserProfiles (
+          userId, fullNameEn, fullNameTh, positionEn, positionTh, 
+          lineId, phone, openChatName, createdAt, updatedAt
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      `,
+        [
+          userId,
+          userData.fullNameEn || null,
+          userData.fullNameTh || null,
+          userData.positionEn || null,
+          userData.positionTh || null,
+          userData.lineId || null,
+          userData.phone || null,
+          userData.openChatName || null,
+          now,
+          now,
+        ]
+      );
+    }
 
     // Commit transaction
     await connection.commit();

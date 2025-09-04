@@ -138,7 +138,7 @@ function createRelationshipMappings(excelData) {
 
   // Fourth pass: Create change requests and map user requests
   // Create one change request per company
-  Object.values(companyMap).forEach((company, index) => {
+  Object.entries(companyMap).forEach(([companyKey, company], index) => {
     const requestId = index + 1;
     const hex = randomBytes(4).toString("hex").toUpperCase(); // 8 hex chars
     const code = `USERCR${hex}`;
@@ -149,6 +149,7 @@ function createRelationshipMappings(excelData) {
       type: "INTERNAL",
       referenceId: company.index + 1,
       organizationId: company.id,
+      companyKey: companyKey, // Store the company key for lookup later
     });
   });
 

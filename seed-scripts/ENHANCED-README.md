@@ -98,6 +98,8 @@ The script intelligently maps relationships between tables using multiple strate
 4. **Foreign key relationships**:
    - Maps referenceId fields to RegistrationReferences
    - Creates one change request per company that links to multiple user requests
+   - Links to the organisations table for organizationId fields in PortalCompanyProfiles, PortalCeoProfiles and PortalUserChangeRequests
+   - Creates new entries in the organisations table if a company doesn't exist
 
 ## Troubleshooting
 
