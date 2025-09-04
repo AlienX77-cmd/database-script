@@ -1,14 +1,25 @@
 // Enhanced Database Seeding Script for Company and User Relationships
 const mysql = require("mysql2/promise");
 const path = require("path");
+const crypto = require("crypto");
 const config = require("./config");
 const { readExcelFile } = require("./excel-parser");
 const { createRelationshipMappings } = require("./relation-helpers");
+
+// Helper function for generating random bytes
+const randomBytes = (size) => crypto.randomBytes(size);
 
 // Format date for MySQL
 function formatDate(date) {
   if (!date) return null;
   return date.toISOString().slice(0, 19).replace("T", " ");
+}
+
+// Helper function to convert role name to role ID
+function getRoleId(role) {
+  if (role === "User") return 3;
+  if (role === "Publisher") return 4;
+  return 3; // Default to 3 if not specified or unknown
 }
 
 // Main seeding function
@@ -200,7 +211,8 @@ async function seedDatabase() {
         [
           userMapping.requestId,
           userData.email || null,
-          userData.role || 1, // Default role ID if not specified
+          // Get roleId based on the 'role' field
+          getRoleId(userData.role) || 3, // Default to 3 if not specified
           userData.fullNameEn || null,
           userData.fullNameTh || null,
           userData.positionEn || null,

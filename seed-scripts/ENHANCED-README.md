@@ -16,8 +16,8 @@ This enhanced version of the seeding script handles the relationships between di
 2. Creating proper relationships between:
 
    - Companies and their CEOs (linked by company name in the Remark field)
-   - Companies and their Org Admins (linked by company name in email domains)
-   - Companies and User Requests (linked by company name in email domains)
+   - Companies and their Org Admins (linked by company name in email domains or Company column)
+   - Companies and User Requests (linked by company name in email domains or Company column)
    - PortalUserChangeRequests and PortalUserRequestLists (one-to-many relationship)
 
 3. Maintaining proper foreign key relationships and data consistency
@@ -65,6 +65,7 @@ This enhanced version of the seeding script handles the relationships between di
 - positionEn, positionTh
 - email, phone
 - EffectiveDate
+- **Company** (RECOMMENDED: exact company name for reliable mapping)
 
 ### User Request List
 
@@ -72,20 +73,41 @@ This enhanced version of the seeding script handles the relationships between di
 - positionEn, positionTh
 - email, phone
 - lineId, openChatName
-- role, accessType
+- role ('User' = roleId 3, 'Publisher' = roleId 4)
+- accessType
+- **Company** (RECOMMENDED: exact company name for reliable mapping)
 
 ## Relationship Mapping
 
-The script intelligently maps relationships between tables by:
+The script intelligently maps relationships between tables using multiple strategies:
 
-1. Using company name normalization for consistent matching
-2. Extracting company names from email domains
-3. Implementing fuzzy matching for inexact company name matches
-4. Creating one change request per company that links to multiple user requests
+1. **Company column matching (Recommended)**:
+
+   - Uses the explicit Company column in Organization Admin Profile and User Request List
+   - Provides the most reliable mapping when company names in emails don't match
+
+2. **Fallback to email domain matching**:
+
+   - Extracts company names from email domains
+   - Applies fuzzy matching for inexact name matches
+
+3. **Remark field mapping for CEOs**:
+
+   - Uses the Remark column in CEO Profile to map to companies
+
+4. **Foreign key relationships**:
+   - Maps referenceId fields to RegistrationReferences
+   - Creates one change request per company that links to multiple user requests
 
 ## Troubleshooting
 
-If you encounter issues:
+If you encounter issues with company mapping:
+
+1. **Add the Company column** to Organization Admin Profile and User Request List sheets
+2. Fill the Company column with **exact** company names matching those in the Company Profile sheet
+3. Re-run the seeding script
+
+For other issues:
 
 1. Ensure your Excel file contains all required sheets and columns
 2. Check database connection parameters

@@ -1,4 +1,8 @@
 // Helper functions for managing relationships between database tables
+const crypto = require("crypto");
+
+// Helper function for generating random bytes
+const randomBytes = (size) => crypto.randomBytes(size);
 
 /**
  * Normalize company name for consistent matching
@@ -83,17 +87,39 @@ function createRelationshipMappings(excelData) {
   // Third pass: map org admins to companies
   if (excelData["RegistrationOrgAdminProfiles"]) {
     excelData["RegistrationOrgAdminProfiles"].forEach((admin, index) => {
-      const companyFromEmail = extractCompanyFromEmail(admin.email);
+      // First try using the Company field if available
+      let companyMatch = null;
 
-      // Try to find matching company
-      let companyMatch = companyMap[companyFromEmail];
+      if (admin.Company) {
+        // If Company column exists, use it for direct mapping
+        const normalizedCompanyName = normalizeName(admin.Company);
+        companyMatch = companyMap[normalizedCompanyName];
 
-      if (!companyMatch && companyFromEmail) {
-        // Try fuzzy matching
-        const matchKey = Object.keys(companyMap).find(
-          (k) => k.includes(companyFromEmail) || companyFromEmail.includes(k)
-        );
-        if (matchKey) companyMatch = companyMap[matchKey];
+        // Try fuzzy matching if direct match fails
+        if (!companyMatch) {
+          const matchKey = Object.keys(companyMap).find(
+            (k) =>
+              k.includes(normalizedCompanyName) ||
+              normalizedCompanyName?.includes(k)
+          );
+          if (matchKey) companyMatch = companyMap[matchKey];
+        }
+      }
+
+      // Fall back to email domain if Company field isn't available or didn't match
+      if (!companyMatch) {
+        const companyFromEmail = extractCompanyFromEmail(admin.email);
+
+        // Try direct match
+        companyMatch = companyMap[companyFromEmail];
+
+        // Try fuzzy matching if direct match fails
+        if (!companyMatch && companyFromEmail) {
+          const matchKey = Object.keys(companyMap).find(
+            (k) => k.includes(companyFromEmail) || companyFromEmail?.includes(k)
+          );
+          if (matchKey) companyMatch = companyMap[matchKey];
+        }
       }
 
       if (companyMatch) {
@@ -102,6 +128,10 @@ function createRelationshipMappings(excelData) {
           companyId: companyMatch.id,
           referenceId: companyMatch.index + 1,
         };
+      } else {
+        console.warn(
+          `No company found for Org Admin: ${admin.fullNameEn} (${admin.email})`
+        );
       }
     });
   }
@@ -125,17 +155,47 @@ function createRelationshipMappings(excelData) {
   // Map user requests to companies and change requests
   if (excelData["PortalUserRequestLists"]) {
     excelData["PortalUserRequestLists"].forEach((user, index) => {
-      const companyFromEmail = extractCompanyFromEmail(user.email);
+      // Map role names to roleId values if needed
+      if (user.role === "User") {
+        user.roleId = 3;
+      } else if (user.role === "Publisher") {
+        user.roleId = 4;
+      } else if (!user.roleId) {
+        user.roleId = 3; // Default to 3 if not specified
+      }
 
-      // Try to find matching company
-      let companyMatch = companyMap[companyFromEmail];
+      // First try using the Company field if available
+      let companyMatch = null;
+      if (user.Company) {
+        // If Company column exists, use it for direct mapping
+        const normalizedCompanyName = normalizeName(user.Company);
+        companyMatch = companyMap[normalizedCompanyName];
 
-      if (!companyMatch && companyFromEmail) {
-        // Try fuzzy matching
-        const matchKey = Object.keys(companyMap).find(
-          (k) => k.includes(companyFromEmail) || companyFromEmail.includes(k)
-        );
-        if (matchKey) companyMatch = companyMap[matchKey];
+        // Try fuzzy matching if direct match fails
+        if (!companyMatch) {
+          const matchKey = Object.keys(companyMap).find(
+            (k) =>
+              k.includes(normalizedCompanyName) ||
+              normalizedCompanyName?.includes(k)
+          );
+          if (matchKey) companyMatch = companyMap[matchKey];
+        }
+      }
+
+      // Fall back to email domain if Company field isn't available or didn't match
+      if (!companyMatch) {
+        const companyFromEmail = extractCompanyFromEmail(user.email);
+
+        // Try direct match
+        companyMatch = companyMap[companyFromEmail];
+
+        // Try fuzzy matching if direct match fails
+        if (!companyMatch && companyFromEmail) {
+          const matchKey = Object.keys(companyMap).find(
+            (k) => k.includes(companyFromEmail) || companyFromEmail?.includes(k)
+          );
+          if (matchKey) companyMatch = companyMap[matchKey];
+        }
       }
 
       if (companyMatch) {
@@ -145,6 +205,10 @@ function createRelationshipMappings(excelData) {
           // Link to the change request for this company
           requestId: companyMatch.index + 1,
         };
+      } else {
+        console.warn(
+          `No company found for User Request: ${user.fullNameEn} (${user.email})`
+        );
       }
     });
   }

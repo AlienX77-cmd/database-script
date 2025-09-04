@@ -135,20 +135,41 @@ function mapExcelDataToSchema(data, tableNames) {
       data[tableName]
     ) {
       data[tableName].forEach((row) => {
-        // Link Org Admin to company using email domain
-        const companyFromEmail = extractCompanyFromEmail(row.email);
+        // First try to match by Company field if available
         let company = null;
 
-        // Try direct match first
-        if (companyMap[companyFromEmail]) {
-          company = companyMap[companyFromEmail];
-        } else {
+        if (row.Company) {
+          const normalizedCompanyName = normalizeName(row.Company);
+          company = companyMap[normalizedCompanyName];
+
           // Try fuzzy matching if direct match fails
-          const matchKey = Object.keys(companyMap).find(
-            (k) =>
-              k.includes(companyFromEmail) ||
-              (companyFromEmail && companyFromEmail.includes(k))
-          );
+          if (!company) {
+            const matchKey = Object.keys(companyMap).find(
+              (k) =>
+                k.includes(normalizedCompanyName) ||
+                (normalizedCompanyName && normalizedCompanyName.includes(k))
+            );
+            if (matchKey) company = companyMap[matchKey];
+          }
+        }
+
+        // Fall back to email domain matching if Company field isn't available or didn't match
+        if (!company) {
+          // Link Org Admin to company using email domain
+          const companyFromEmail = extractCompanyFromEmail(row.email);
+
+          // Try direct match first
+          if (companyMap[companyFromEmail]) {
+            company = companyMap[companyFromEmail];
+          } else {
+            // Try fuzzy matching if direct match fails
+            const matchKey = Object.keys(companyMap).find(
+              (k) =>
+                k.includes(companyFromEmail) ||
+                (companyFromEmail && companyFromEmail.includes(k))
+            );
+            if (matchKey) company = companyMap[matchKey];
+          }
           if (matchKey) company = companyMap[matchKey];
         }
 
@@ -182,20 +203,41 @@ function mapExcelDataToSchema(data, tableNames) {
       });
     } else if (tableName === "PortalUserRequestLists" && data[tableName]) {
       data[tableName].forEach((row) => {
-        // Link User Request to company and change request
-        const companyFromEmail = extractCompanyFromEmail(row.email);
+        // First try to match by Company field if available
         let company = null;
 
-        // Try direct match first
-        if (companyMap[companyFromEmail]) {
-          company = companyMap[companyFromEmail];
-        } else {
+        if (row.Company) {
+          const normalizedCompanyName = normalizeName(row.Company);
+          company = companyMap[normalizedCompanyName];
+
           // Try fuzzy matching if direct match fails
-          const matchKey = Object.keys(companyMap).find(
-            (k) =>
-              k.includes(companyFromEmail) ||
-              (companyFromEmail && companyFromEmail.includes(k))
-          );
+          if (!company) {
+            const matchKey = Object.keys(companyMap).find(
+              (k) =>
+                k.includes(normalizedCompanyName) ||
+                (normalizedCompanyName && normalizedCompanyName.includes(k))
+            );
+            if (matchKey) company = companyMap[matchKey];
+          }
+        }
+
+        // Fall back to email domain matching if Company field isn't available or didn't match
+        if (!company) {
+          // Link User Request to company using email domain
+          const companyFromEmail = extractCompanyFromEmail(row.email);
+
+          // Try direct match first
+          if (companyMap[companyFromEmail]) {
+            company = companyMap[companyFromEmail];
+          } else {
+            // Try fuzzy matching if direct match fails
+            const matchKey = Object.keys(companyMap).find(
+              (k) =>
+                k.includes(companyFromEmail) ||
+                (companyFromEmail && companyFromEmail.includes(k))
+            );
+            if (matchKey) company = companyMap[matchKey];
+          }
           if (matchKey) company = companyMap[matchKey];
         }
 
@@ -352,10 +394,21 @@ function mapPortalUserChangeRequest(row) {
 function mapPortalUserRequestList(row) {
   // Map from "User Request List" sheet to PortalUserRequestLists
   const now = new Date();
+
+  // Map role names to roleId values
+  let roleId;
+  if (row.role === "User") {
+    roleId = 3;
+  } else if (row.role === "Publisher") {
+    roleId = 4;
+  } else {
+    roleId = row.roleId || 3; // Default to 3 if not specified
+  }
+
   return {
     requestId: row.requestId,
     email: row.email,
-    roleId: row.roleId,
+    roleId: roleId,
     fullNameEn: row.fullNameEn,
     fullNameTh: row.fullNameTh,
     positionEn: row.positionEn,
