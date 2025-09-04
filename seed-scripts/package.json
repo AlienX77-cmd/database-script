@@ -1,0 +1,13 @@
+{
+  "name": "database-seeder",
+  "version": "1.0.0",
+  "description": "Script to seed database tables from Excel data",
+  "main": "seed-database.js",
+  "scripts": {
+    "seed": "node seed-database.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.0",
+    "xlsx": "^0.18.5"
+  }
+}
