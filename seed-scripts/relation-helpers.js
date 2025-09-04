@@ -110,7 +110,8 @@ function createRelationshipMappings(excelData) {
   // Create one change request per company
   Object.values(companyMap).forEach((company, index) => {
     const requestId = index + 1;
-    const code = `REQ-${Math.floor(1000000 + Math.random() * 9000000)}`;
+    const hex = randomBytes(4).toString("hex").toUpperCase(); // 8 hex chars
+    const code = `USERCR${hex}`;
 
     changeRequests.push({
       id: requestId,

@@ -43,7 +43,8 @@ async function seedDatabase() {
     for (const companyKey of Object.keys(mappings.companyMap)) {
       const company = mappings.companyMap[companyKey];
       const now = formatDate(new Date());
-      const code = `REF-${Math.floor(1000000 + Math.random() * 9000000)}`;
+      const hex = randomBytes(4).toString("hex").toUpperCase(); // 8 hex chars
+      const code = `PT${hex}`;
 
       const contactPersonInfo = company.data;
 
