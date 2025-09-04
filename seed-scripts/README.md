@@ -23,32 +23,36 @@ This script seeds data into 9 database tables based on data from an Excel file.
 ## Setup
 
 1. Install dependencies:
+
 ```
 npm install
 ```
 
 2. Configure database connection:
-Open `seed-database.js` and update the `dbConfig` object with your database credentials:
+   Open `seed-database.js` and update the `dbConfig` object with your database credentials:
+
 ```javascript
 const dbConfig = {
-  host: 'localhost',
-  user: 'root',
-  password: 'your_password', // Change this to your actual password
-  database: 'misp' // Change to your database name if different
+  host: "localhost",
+  user: "root",
+  password: "your_password", // Change this to your actual password
+  database: "misp", // Change to your database name if different
 };
 ```
 
 3. Prepare Excel file:
-If you want to use your own data, make sure your Excel file has sheets named after the tables and columns matching the database schema.
+   If you want to use your own data, make sure your Excel file has sheets named after the tables and columns matching the database schema.
 
 ## Running the Script
 
 Run the script using:
+
 ```
 npm run seed
 ```
 
 Or directly:
+
 ```
 node seed-database.js
 ```
@@ -57,48 +61,63 @@ node seed-database.js
 
 If specific sheets are not found in the Excel file, or if fields are missing, the script will generate dummy data automatically.
 
+## Date Format Handling
+
+The script can handle dates in Thai Buddhist Era (BE) format, which are 543 years ahead of the Gregorian calendar. For example, the year 2567 BE is equivalent to 2024 CE.
+
+The `EffectiveDate` column in the Excel file is expected to use this format (e.g., "7/11/2567"). The script will automatically convert these dates to the Gregorian calendar before inserting them into the database.
+
 ## Schema Information
 
 The script is based on the following table schemas:
 
 ### RegistrationReferences
+
 - Primary key: `id` (int, auto-increment)
 - Status options: 'PENDING_CEO_APPROVAL', 'PENDING_ADMIN_APPROVAL', 'APPROVED', 'REJECTED'
 - Request types: 'CREATE', 'UPDATE'
 
 ### RegistrationCompanyProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign key: `referenceId` references RegistrationReferences.id
 
 ### RegistrationCeoProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign key: `referenceId` references RegistrationReferences.id
 
 ### RegistrationOrgAdminProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign key: `referenceId` references RegistrationReferences.id
 - allowOpenChat options: 'YES', 'NO'
 
 ### PortalUserChangeRequests
+
 - Primary key: `id` (int, auto-increment)
 - Type options: 'INTERNAL', 'EXTERNAL'
 - Foreign keys: `referenceId` and `organizationId`
 
 ### PortalUserRequestLists
+
 - Primary key: `id` (int, auto-increment)
 - Foreign keys: `requestId` and `roleId`
 - Access type options: 'OPENCHAT', 'PORTAL', 'BOTH'
 - Status options: 'ADD', 'UPDATE', 'DELETE', 'UNCHANGED'
 
 ### PortalUserProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign key: `userId`
 
 ### PortalCompanyProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign keys: `referenceId` and `organizationId`
 
 ### PortalCeoProfiles
+
 - Primary key: `id` (int, auto-increment)
 - Foreign key: `organizationId`
 

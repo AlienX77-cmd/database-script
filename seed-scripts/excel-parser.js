@@ -366,7 +366,7 @@ function mapOrgAdminProfile(row) {
     positionEn: row.positionEn,
     phone: row.phone,
     email: row.email,
-    effectiveDate: row.EffectiveDate ? new Date(row.EffectiveDate) : now,
+    EffectiveDate: row.EffectiveDate, // Pass the raw value for proper parsing later
     referenceId: row.referenceId,
     createdAt: row.createdAt || now,
     updatedAt: row.updatedAt || now,
@@ -437,7 +437,7 @@ function mapPortalUserProfile(row) {
     positionEn: row.positionEn,
     positionTh: row.positionTh,
     openChatName: row.openChatName,
-    effectiveDate: row.effectiveDate,
+    EffectiveDate: row.EffectiveDate, // Pass the raw value for later parsing
   };
 }
 

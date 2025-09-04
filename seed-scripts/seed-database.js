@@ -9,9 +9,43 @@ const { createRelationshipMappings } = require("./relation-helpers");
 // Helper function for generating random bytes
 const randomBytes = (size) => crypto.randomBytes(size);
 
+// Function to parse Thai Buddhist Era date (BE) to Gregorian date
+function parseBEDate(dateString) {
+  if (!dateString) return null;
+
+  // If it's already a Date object, return it
+  if (dateString instanceof Date) return dateString;
+
+  try {
+    // Parse the date string - expected format "M/D/YYYY" (e.g., "7/11/2567")
+    const parts = dateString.toString().split("/");
+    if (parts.length !== 3) return new Date(); // Invalid format
+
+    const month = parseInt(parts[0], 10) - 1; // Month is 0-indexed in JS Date
+    const day = parseInt(parts[1], 10);
+    let year = parseInt(parts[2], 10);
+
+    // Convert BE to CE by subtracting 543 years if the year is > 2500
+    if (year > 2500) {
+      year = year - 543;
+    }
+
+    return new Date(year, month, day);
+  } catch (error) {
+    console.error(`Error parsing date "${dateString}":`, error);
+    return new Date(); // Return current date as fallback
+  }
+}
+
 // Format date for MySQL
 function formatDate(date) {
   if (!date) return null;
+
+  // If it's a string that might be a BE date, parse it first
+  if (typeof date === "string") {
+    date = parseBEDate(date);
+  }
+
   return date.toISOString().slice(0, 19).replace("T", " ");
 }
 
@@ -189,7 +223,7 @@ async function seedDatabase() {
       const adminData = adminMapping.adminData;
       const now = formatDate(new Date());
       const effectiveDate = adminData.EffectiveDate
-        ? formatDate(new Date(adminData.EffectiveDate))
+        ? formatDate(parseBEDate(adminData.EffectiveDate))
         : now;
 
       await connection.execute(
