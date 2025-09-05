@@ -1,0 +1,832 @@
+[
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายปรีชา ไทรภัทรกุล",
+      "phone": "061-415-6789",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 111 อาคาร เพียร์ 111 ชั้น 11 ห้องเลขที่ 1101 ถนนราชดำริห์ แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร",
+      "code": "",
+      "contactPersonEmail": "chanwut@upbit.com",
+      "contactPersonNameEn": "Chanwut Tangchaitanapat",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "061-385-6888",
+      "nameEn": "UPBIT EXCHANGE (THAILAND) CO., LTD.",
+      "nameTh": " บริษัท อัพบิต เอ็กซ์เชนจ์ (ประเทศไทย) จำกัด",
+      "phone": "061-415-6789",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-15T17:00:00.000Z",
+      "email": "chanwut@upbit.com",
+      "fullNameEn": "Chanwut Tangchaitanapat",
+      "fullNameTh": "-",
+      "phone": "061-385-6888",
+      "positionEn": "Head of InfoSec (CISO)",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "chawut@upbit.com",
+        "fullNameEn": "Chawut Tangchaitanapat",
+        "fullNameTh": "ชาญวุฒิ ตั้งชัยธนภัทร",
+        "lineId": "teelek.sc",
+        "openChatName": "-",
+        "phone": "061-385-6888",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "nattapong@upbit.com",
+        "fullNameEn": "Nattapong Kuadkhuntod",
+        "fullNameTh": "ณัฐพงศ์ กวดขุนทด",
+        "lineId": "oak.27th",
+        "openChatName": "-",
+        "phone": "098-905-3536",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายยูตะ โคะมะโกะเมะ",
+      "phone": "022631100",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 3 อาคารฟอร์จูนทาวน์ ชั้นที่ 22 ถนนรัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพมหานคร",
+      "code": "",
+      "contactPersonEmail": "intham@cryptonomics.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นพรินทร์ อินทำ",
+      "contactPersonPhone": "092-534-4699",
+      "nameEn": "GMO-Z.COM CRYPTONOMICS (THAILAND) COMPANY LIMITED ",
+      "nameTh": " บริษัท จีเอ็มโอ-แซดคอม คริป โทนอมิคซ์ (ประเทศไทย) จำกัด ",
+      "phone": "02-263-1100",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-05-19T17:00:00.000Z",
+      "email": "intham@cryptonomics.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "นพรินทร์ อินทำ",
+      "phone": "092-534-4699",
+      "positionEn": "-",
+      "positionTh": "ผู้จัดการฝ่ายกำกับดูแลและตรวจสอบ",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายทวีทรัพย์ ราวรรณี",
+      "phone": "02-032-9555",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "2525 อาคารเอฟวายไอ เซ็นเตอร์ ตึก 2 ชั้นที่ 11. ยูนิต 2/1101-2/1107. ถนนพระรามที่ 4 แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110 ",
+      "code": "",
+      "contactPersonEmail": "mo.mongkol@bitkub.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายมงคล ฉัตรปทุมทอง",
+      "contactPersonPhone": "089-454-9443",
+      "nameEn": "BITKUB ONLINE COMPANY LIMITED",
+      "nameTh": " บริษัท บิทคับ ออนไลน์ จำกัด ",
+      "phone": "02-032-9555",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-19T17:00:00.000Z",
+      "email": "mo.mongkol@bitkub.com",
+      "fullNameEn": "-",
+      "fullNameTh": "นายมงคล ฉัตรปทุมทอง",
+      "phone": "089-454-9443",
+      "positionEn": "-",
+      "positionTh": "ประธานเจ้าหน้าที่บริหารกลุ่มความปลอดภัย",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "dome.parin@bitkub.com",
+        "fullNameEn": "Parin Nakniyom",
+        "fullNameTh": "ปรินทร์ นาคนิยม",
+        "lineId": "Parin Nakniyom",
+        "openChatName": "-",
+        "phone": "088-694-2391",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "bowl.pacharawit@bitkub.com",
+        "fullNameEn": "Pacharawit Topark-ngarm",
+        "fullNameTh": "พัชรวิทย์ โตภาคงาม",
+        "lineId": "Pacharawit Topark-ngarm",
+        "openChatName": "-",
+        "phone": "080-356-9691",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "earth.pattarakorn@bitkub.com",
+        "fullNameEn": "Pattarakorn Phupaphada",
+        "fullNameTh": "ภัทรกร ภูปภาดา",
+        "lineId": "Pattarakorn Phupaphada",
+        "openChatName": "-",
+        "phone": "086-998-6948",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "pete.peeraphat@bitkub.com",
+        "fullNameEn": "Peeraphat Doungpan",
+        "fullNameTh": "พีรพัฒน์ ด้วงปั้น",
+        "lineId": "Peeraphat Doungpan",
+        "openChatName": "-",
+        "phone": "095-112-9596",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "golf.maythat@bitkub.com",
+        "fullNameEn": "Maythat Saengpetch",
+        "fullNameTh": "เมธัส แสงเพชร",
+        "lineId": "Maythat Saengpetch",
+        "openChatName": "-",
+        "phone": "082-096-9641",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "great.phatsakan@bitkub.com",
+        "fullNameEn": "Phatsakan Laiphaithong",
+        "fullNameTh": "พัสกาญจน์ ไหลไผ่ทอง",
+        "lineId": "Phatsakan Laiphaithong",
+        "openChatName": "-",
+        "phone": "081-650-0302",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "card.apicha@bitkub.com",
+        "fullNameEn": "Apicha Pudikanawat",
+        "fullNameTh": "อภิชา ภูติทคณวัฒน์",
+        "lineId": "Apicha Pudikanawat",
+        "openChatName": "-",
+        "phone": "065-669-6646",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายนิรันคร์ ฟูวัฒนานุกูล",
+      "phone": "02-038-5538",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "87/2 อาคารซีอาร์ซี ทาวเวอร์ ออลซีซั่น เพลส ชั้น 8 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "chalermphan.phongpraphat@binance.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายเฉลิมพันธ์ พงษ์ประพัฒน์",
+      "contactPersonPhone": "086-668-2236",
+      "nameEn": "GULF BINANCE COMPANY LIMITED",
+      "nameTh": " บริษัท กัลฟ์ ไบแนนซ์ จำกัด ",
+      "phone": "02-038-5538",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-01T17:00:00.000Z",
+      "email": "chalermphan.phongpraphat@binance.th",
+      "fullNameEn": "-",
+      "fullNameTh": "นายเฉลิมพันธ์ พงษ์ประพัฒน์",
+      "phone": "086-668-2236",
+      "positionEn": "Head of IT Security & Governance",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นาย ชวัล เจียรวนนท์",
+      "phone": "02-033-9999",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1758/4 ถนนสุขุมวิท แขวงพระโขนงใต้ เขตพระโขนง กทม.",
+      "code": "",
+      "contactPersonEmail": "soogreet.p@waanx.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "สุกฤษ พรพิบูลย์",
+      "contactPersonPhone": "02-033-9999",
+      "nameEn": "WAAN EXCHANGE CO., LTD.",
+      "nameTh": " บริษัท วาฬ เอ็กเชนจ์ จำกัด ",
+      "phone": "02-033-9999",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-16T17:00:00.000Z",
+      "email": "soogreet.p@waanx.com",
+      "fullNameEn": "-",
+      "fullNameTh": "สุกฤษ พรพิบูลย์",
+      "phone": "02-033-9999",
+      "positionEn": "Head of Information Technology",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "wichien.s@waanx.com",
+        "fullNameEn": "Wichien Sae-tia",
+        "fullNameTh": "วิเชียร แซ่เดีย",
+        "lineId": "Wichien Sae-tia",
+        "openChatName": "-",
+        "phone": "083-240-7076",
+        "positionEn": "Officer",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "titison.s@waanx.com",
+        "fullNameEn": "Titison Sasompolsawat",
+        "fullNameTh": "ธิติสรรค์ สะสมผลสวัสดิ ",
+        "lineId": "Titison Sasompolsawat",
+        "openChatName": "-",
+        "phone": "087-361-5252",
+        "positionEn": "Officer",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "jirapa.a@waanx.com",
+        "fullNameEn": "Jirapa Adam",
+        "fullNameTh": "จิราภา อาดำ",
+        "lineId": "Jirapa Adam",
+        "openChatName": "-",
+        "phone": "092-498-5699",
+        "positionEn": "Officer",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "tananan.m@waanx.com",
+        "fullNameEn": "Tananan Maiket",
+        "fullNameTh": "ธนานัน์ ไม้เกตุ",
+        "lineId": "Tananan Maiket",
+        "openChatName": "-",
+        "phone": "061-535-9664",
+        "positionEn": "Senior",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "Kittipong.s@waanx.com",
+        "fullNameEn": "Kittipong Santisarun",
+        "fullNameTh": "กิติพงษ์ ศานติศรัณย์",
+        "lineId": "Kittipong Santisarun",
+        "openChatName": "-",
+        "phone": "083-036-5068",
+        "positionEn": "Head of Risk",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "Thanakorn.p@waanx.com",
+        "fullNameEn": "Thanakorn Pojtananbuntoeng",
+        "fullNameTh": "ธนกร พจน์นาบันเทิง",
+        "lineId": "Thanakorn Pojtananbuntoeng",
+        "openChatName": "-",
+        "phone": "083-036-5078",
+        "positionEn": "Head of CIA",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายปกเขตร รัชกิจประการ",
+      "phone": "02-026-6630",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 90 อาคารซีดับเบิ้ลยู ทาวเวอร์ ชั้น 31 ห้องเอ 3101-02ถนนรัชดาภิเษก แขวงห้วยขวาง เขตห้วยขวาง กรุงเทพมหานคร 10310",
+      "code": "",
+      "contactPersonEmail": "ydulieu@maxbit.co.th",
+      "contactPersonNameEn": "Yannic Dulieu",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "096-771-0978",
+      "nameEn": "MAXBIT DIGITAL ASSET CO., LTD",
+      "nameTh": " บริษัท แมกซ์บิท ดิจิทัล แอส เซท จำกัด ",
+      "phone": "02-026-6630",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-01T17:00:00.000Z",
+      "email": "ydulieu@maxbit.co.th",
+      "fullNameEn": "Yannic Dulieu",
+      "fullNameTh": "-",
+      "phone": "096-771-0978",
+      "positionEn": "Chief Information Security Officer (CISO)",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "wpaung@maxbit.co.th",
+        "fullNameEn": "Wai Phyo Aung",
+        "fullNameTh": "เวย์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "0961-802-4895",
+        "positionEn": "Cyber Security Expert",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "teadbua@maxbit.co.th",
+        "fullNameEn": "Tanan Eadbua",
+        "fullNameTh": "ธนันต์ เอียดบัว",
+        "lineId": "clapton1990",
+        "openChatName": "-",
+        "phone": "065-935-0071",
+        "positionEn": "Security Governance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "nbuakhai@maxbit.co.th",
+        "fullNameEn": "Nitchanun Buakhai",
+        "fullNameTh": "นิชชนันทน์ บัวไข",
+        "lineId": "aotoptimus12",
+        "openChatName": "-",
+        "phone": "098-236-2423",
+        "positionEn": "Executive Assistant",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวนฎา สงสะเสน",
+      "phone": "02-038-5038",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 1 อาคารพาร์คสีลม ห้อง 30.14 ชั้น 30 ถนนคอนแวนต์ แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
+      "code": "",
+      "contactPersonEmail": "nat.n@coins.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายนัท นันทาภิวัธน์",
+      "contactPersonPhone": "089-208-2500",
+      "nameEn": "COINS TH COMPANY LIMITED",
+      "nameTh": " บริษัท คอยส์ ทีเอช จำกัด ",
+      "phone": "02-038-5038",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-03-31T17:00:00.000Z",
+      "email": "nat.n@coins.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "นายนัท นันทาภิวัธน์",
+      "phone": "089-208-2500",
+      "positionEn": "Managing Director",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาววรางคณา อัครสถาพร",
+      "phone": "02-080-6052",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 59 สิรีแคมบัส อาคารดี ชั้น 2 ซอยริมคลองพระโขนง แขวงพระโขนงเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
+      "code": "",
+      "contactPersonEmail": "Pramapornc@xspringcapital.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "ประมาภรณ์ จตุราภิรมย์",
+      "contactPersonPhone": "02-080-6052",
+      "nameEn": "XSPRING DIGITAL COMPANY, LIMITED",
+      "nameTh": " บริษัท เอ็กซ์สปริง ดิจิทัล จำกัด ",
+      "phone": "02-080-6052",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-10-14T17:00:00.000Z",
+      "email": "Pramapornc@xspringcapital.com",
+      "fullNameEn": "-",
+      "fullNameTh": "ประมาภรณ์ จตุราภิรมย์",
+      "phone": "02-080-6052",
+      "positionEn": "IT Compliance",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "nantanartt@xspringas.com",
+        "fullNameEn": "Nantanart Takonuan",
+        "fullNameTh": "นันทนาถ ตะโกนวล",
+        "lineId": "pengtungshop",
+        "openChatName": "-",
+        "phone": "084-001-1567",
+        "positionEn": "CTO",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "Akarawit@xspringdigital.com",
+        "fullNameEn": "Akarawit Phingkarawat",
+        "fullNameTh": "อัตรวิทย์ ภิงคารวัฒน์",
+        "lineId": "prodprod85",
+        "openChatName": "-",
+        "phone": "091-717-1234",
+        "positionEn": "Complaince",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายธนภูมิ ตำรักษ์",
+      "phone": "086-9861238",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "188/72 อาคารเคพลัส ถนนจรัสเมือง แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "chaowaporn.k@orbixinvest.com",
+      "contactPersonNameEn": "Chaowaporn Kittikongwat",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "086-9861238",
+      "nameEn": "ORBIX INVEST CO., LTD",
+      "nameTh": " บริษัท ออร์บิกซ์ อินเวสท์ จำกัด ",
+      "phone": "086-986-1238",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-11-17T17:00:00.000Z",
+      "email": "chaowaporn.k@orbixinvest.com",
+      "fullNameEn": "Chaowaporn Kittikongwat",
+      "fullNameTh": "-",
+      "phone": "086-986-1238",
+      "positionEn": "Head. of Compliance",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "nuttha.I@orbixinvest.com",
+        "fullNameEn": "Nuttha Lertwattanaklai",
+        "fullNameTh": "ณัฐา เลิศวัฒนาเกียรติ",
+        "lineId": "089-792-1167",
+        "openChatName": "-",
+        "phone": "089-792-1167",
+        "positionEn": "Risk",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "phurithat.p@orbixinvest.com",
+        "fullNameEn": "Phurithat Petklai",
+        "fullNameTh": "ภูริทัต เพ็ชรคลาย",
+        "lineId": "082-454-4969",
+        "openChatName": "-",
+        "phone": "082-454-4969",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "tanavat.k@orbixinvest.com",
+        "fullNameEn": "Tanavat Kitikomolsuk",
+        "fullNameTh": "ธนวัชร กิติโกมลสุข",
+        "lineId": "085-762-2742",
+        "openChatName": "-",
+        "phone": "085-762-2742",
+        "positionEn": "Compliance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "saran.ph@orbixinvest.com",
+        "fullNameEn": "Saran Phonchan",
+        "fullNameTh": "ศรัณย์ ผลจันทน์",
+        "lineId": "086-347-1269",
+        "openChatName": "-",
+        "phone": "086-347-1269",
+        "positionEn": "Risk",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "tanapoom.d@orbixinvest.com",
+        "fullNameEn": "Tanapoom Damraks",
+        "fullNameTh": "ธนภูมิ ดำรักษ์",
+        "lineId": "086-986-1238",
+        "openChatName": "-",
+        "phone": "086-986-1238",
+        "positionEn": "MD",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "saksin.p@orbixinvest.com",
+        "fullNameEn": "Saksin Pholngam",
+        "fullNameTh": "ศักดิ์สิน ผลงาม",
+        "lineId": "saksin.p",
+        "openChatName": "-",
+        "phone": "085-259-0033",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายเอกภักดี นิราพาธพงศ์พร",
+      "phone": "02-078-6787",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1700 อาคารแพลนบี ทาวเวอร์ ชั้น 12 ถนนเพชรบุรีตัดใหม่ แขวงมักกะสัน เขตราชเทวี กรุงเทพฯ",
+      "code": "",
+      "contactPersonEmail": "crieruttekool@fraction.co",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายจีรัฐติกุล จรรยพงษ์",
+      "contactPersonPhone": "081-717-9111",
+      "nameEn": "FRACTION (THAILAND) CO., LTD",
+      "nameTh": " บริษัท แฟรคชั่น (ประเทศไทย) จำกัด",
+      "phone": "02-078-6787",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-05T17:00:00.000Z",
+      "email": "crieruttekool@fraction.co",
+      "fullNameEn": "-",
+      "fullNameTh": "นายจีรัฐติกุล จรรยพงษ์",
+      "phone": "081-717-9111",
+      "positionEn": "Head Compliance",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางบุญทิพย์ กฤตชัยกุล",
+      "phone": "02-949-1221",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เอสซีบีพาร์กพลาซา เลขที่ 18 อาคาร 1 ชั้น 2 , เลขที่ 19 อาคาร 3 ชั้น 2 และ 20 , ถนนรัชดาภิเษก แขวงจตุจักร เขตจตุจักร กรุงเทพมหานคร 10900",
+      "code": "",
+      "contactPersonEmail": "wuttichai.c@innovestx.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วุฒิชัย ชูเมือง",
+      "contactPersonPhone": "084-124-6913",
+      "nameEn": "InnovestX Securities Company Limited",
+      "nameTh": "บริษัท หลักทรัพย์ อินโนเวสท์ เอกซ์ จำกัด",
+      "phone": "02-949-1221",
+      "sector": "สมาชิก TDO"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-10-09T17:00:00.000Z",
+      "email": "wuttichai.c_tdo@innovestx.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "วุฒิชัย ชูเมือง",
+      "phone": "084-124-6913",
+      "positionEn": "-",
+      "positionTh": "ผู้อำนวยการอาวุโส",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "OPENCHAT",
+        "email": "verapat.c@innovestx.co.th",
+        "fullNameEn": "Verapat Chantaravannakul",
+        "fullNameTh": "วีรภัทร จันทรวรรณกูล",
+        "lineId": "Verapat Chantaravannakul",
+        "openChatName": "Verapat Chantaravannakul",
+        "phone": "083-491-1755",
+        "positionEn": "MD",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "chakrit.s@innovestx.co.th",
+        "fullNameEn": "Chakrit Sangsakul",
+        "fullNameTh": "ชาคริต แสงสกุล",
+        "lineId": "Chakrit Sangsakul",
+        "openChatName": "Chakrit Sangsakul",
+        "phone": "093-220-6077",
+        "positionEn": "Assistant Vice President",
+        "positionTh": "ผู้ช่วยผู้อำนวยการ",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "chatchai.t@innovestx.co.th",
+        "fullNameEn": "Chatchai Thepkailas",
+        "fullNameTh": "ชัชชัย เทพไกรลาศ",
+        "lineId": "Chatchai Thepkailas",
+        "openChatName": "Chatchai Thepkailas",
+        "phone": "089-365-1415",
+        "positionEn": "Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "sitthapon.p@innovestx.co.th",
+        "fullNameEn": "Sitthapon Pumpichet",
+        "fullNameTh": "สิทธาพล พุ่มพิเชฎฐ์",
+        "lineId": "Sitthapon Pumpichet",
+        "openChatName": "Sitthapon Pumpichet",
+        "phone": "099-795-5159",
+        "positionEn": "Senior Vice President",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "ovard.t@innovestx.co.th",
+        "fullNameEn": "Ovard Tsui",
+        "fullNameTh": "โอวาท ซุย",
+        "lineId": "Ovard Tsui",
+        "openChatName": "Ovard Tsui",
+        "phone": "087-568-6517",
+        "positionEn": "Assistant Vice President",
+        "positionTh": "ผู้ช่วยผู้อำนวยการ",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "mogul.m@innovestx.co.th",
+        "fullNameEn": "Mogul Mingmuang",
+        "fullNameTh": "โมกุล มิ่งเมือง",
+        "lineId": "Mogul Mingmuang",
+        "openChatName": "Mogul Mingmuang",
+        "phone": "093-149-9898",
+        "positionEn": "Assistant Vice President",
+        "positionTh": "ผู้ช่วยผู้อำนวยการ",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  }
+]

@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Script to seed database tables from Excel data",
   "main": "seed-database.js",
+  "type": "module",
   "scripts": {
-    "seed": "node seed-database.js"
+    "test": "node test.js"
   },
   "dependencies": {
+    "dayjs": "^1.11.18",
     "mysql2": "^3.6.0",
     "xlsx": "^0.18.5"
   }

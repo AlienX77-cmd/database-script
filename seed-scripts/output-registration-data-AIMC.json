@@ -1,0 +1,2646 @@
+[
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "Weerawat Utho",
+      "fullNameTh": "-",
+      "phone": "02-351-1800",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "ซีอาร์ซี ทาวเวอร์ อาคารออลซีซั่น ชัน 18 ถ.วิทยุ ต.ลุมพินี อ.ปทุมวัน จ.กรุงเทพ 10330",
+      "code": "",
+      "contactPersonEmail": "weerawat.u@daol.co.th  ",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วีระวัฒน์ อุทโท",
+      "contactPersonPhone": "097-180-9111",
+      "nameEn": "DAOL SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+      "nameTh": "บริษัท หลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)",
+      "phone": "02-351-1800",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-26T17:00:00.000Z",
+      "email": "weerawat.u_aimc@daol.co.th  ",
+      "fullNameEn": "-",
+      "fullNameTh": "วีระวัฒน์ อุทโท",
+      "phone": "02-351-1800",
+      "positionEn": "Senior Vice President",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาววรวรรณี ตั้งศิริกุศลวงศ์",
+      "phone": "02-686-6100",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1 อาคารเอ็มไพร์ทาวเวอร์ ชั้นที่ 32 ถนนสาทรใต้ แขวงยานนาวา เขตสาทร กรุงเทพมหานคร 10120",
+      "code": "",
+      "contactPersonEmail": "Nongluck@ktam.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นงลักษณ์ ตั้งใจพัฒน์",
+      "contactPersonPhone": "092-328-9261",
+      "nameEn": "Krungthai Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน กรุงไทย จำกัด",
+      "phone": "02-686-6100",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-26T17:00:00.000Z",
+      "email": "Nongluck@ktam.co.th",
+      "fullNameEn": "Nonglak Tangjaiphat",
+      "fullNameTh": "นงลักษณ์ ตั้งใจพัฒน์",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "ผู้ช่วยกรรมการผู้จัดการ",
+      "lineId": "KTAM : Pimpach",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Nutthapoom@ktam.co.th",
+        "fullNameEn": "Natthapoom Phongananthachok",
+        "fullNameTh": "ณัฐภูมิ พงษ์อนันท์โชค",
+        "lineId": "KTAM : Supharat ",
+        "openChatName": "-",
+        "phone": "02-686-6100 ext.6380",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Thanarit@ktam.co.th",
+        "fullNameEn": "Thanarit Ritbanroeng",
+        "fullNameTh": "ธนฤทธิ์ ฤทธิ์บันเริง",
+        "lineId": "KTAM : Thanarit ",
+        "openChatName": "-",
+        "phone": "02-686-6100 ext.6378",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "Supharat@ktam.co.th",
+        "fullNameEn": "Supparat Chanwanta",
+        "fullNameTh": "ศุภรัสมิ์ จรรย์วรรธน์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "-",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "pimpach@ktam.co.th",
+        "fullNameEn": "Pimphat Achitanitchawong",
+        "fullNameTh": "พิมพ์ภัช อชิตะณิชวงศ์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "-",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "-",
+      "phone": "02-657-5757",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "ชั้น 1-2 โซนเอ ชั้น 12, 18 โซนบี อาคารเพลินจิตทาวเวอร์ 898 เพลินจิต ทาวเวอร์ ชั้น3 ถนน เพลินจิต แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "pisit.phontangjitilitkit@krungsri.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "พิสิษฐ์ พรตั้งจิตลิขิต",
+      "contactPersonPhone": "-",
+      "nameEn": "Krungsri Asset Management Co.,LTD.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน กรุงศรี จำกัด",
+      "phone": "02-657-5757",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-02-16T17:00:00.000Z",
+      "email": "pisit.phontangjitilitkit@krungsri.com",
+      "fullNameEn": "Pisit Phontangjjlikit",
+      "fullNameTh": "พิสิษฐ์ พรตั้งจิตลิขิต",
+      "phone": "-",
+      "positionEn": "Chief Information Technology Officer (CITO)",
+      "positionTh": "-",
+      "lineId": "tuupisit",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "pisit.phontangjitlikit@krungsri.com",
+        "fullNameEn": "Pisit Phontangjjlikit",
+        "fullNameTh": "พิสิษฐ์ พรตั้งจิตลิขิต",
+        "lineId": "tuupisit",
+        "openChatName": "-",
+        "phone": "097-165-9153",
+        "positionEn": "CITO",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "nalinsiri.vijitakula@krungsri.com",
+        "fullNameEn": "Nalinsiri Vijitakula",
+        "fullNameTh": "นลินสิริ วิชิตะกุล",
+        "lineId": "6689690695",
+        "openChatName": "-",
+        "phone": "089-699-0659",
+        "positionEn": "IT Secuirty",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "parada.salakhum@krungsri.com",
+        "fullNameEn": "Parada Salakhum",
+        "fullNameTh": "ภารดา สะลาคำ",
+        "lineId": "g4pgap",
+        "openChatName": "-",
+        "phone": "086-4095164",
+        "positionEn": "IT Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายวิน พรหมแพทย์",
+      "phone": "0-2673-3888",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "400/22 อาคารธนาคารกสิกรไทย ชั้น 6 และ 12 ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กรุงเทพฯ 10400",
+      "code": "",
+      "contactPersonEmail": "thanasak.ch@kasikornasset.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "Thanasak Chaiyakul",
+      "contactPersonPhone": "-",
+      "nameEn": "Kasikorn Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด",
+      "phone": "0-2673-3888",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-01T17:00:00.000Z",
+      "email": "thanasak.ch@kasikornasset.com",
+      "fullNameEn": "Thanasak Chaiyakul",
+      "fullNameTh": "-",
+      "phone": "02-673-3888",
+      "positionEn": "-",
+      "positionTh": "ผู้บริหารฝ่ายวางแผนจัดการเทคโนโลยีสารสนเทศ",
+      "lineId": "Thanasak Chaiyakul",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Phatchara.Pr@kasikornasset.com",
+        "fullNameEn": "Phatchara Prapakornbunjerd",
+        "fullNameTh": "พัชรา ประภากรบรรเจิด",
+        "lineId": "Phatchara Prapakornbunjerd",
+        "openChatName": "-",
+        "phone": "085-911-1574",
+        "positionEn": "-",
+        "positionTh": "ผู้บริหารงานความมั่นคงปลอดภัยระบบคอมฯ",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Apichaya.Ti@kasikornasset.com",
+        "fullNameEn": "Apichaya Tienchairoj",
+        "fullNameTh": "อภิชญา เทียนชัยโรจน์",
+        "lineId": "Apichaya Tienchairoj",
+        "openChatName": "-",
+        "phone": "081-938-8611",
+        "positionEn": "-",
+        "positionTh": "ผู้บริหารงานฝ่ายกำกับ และตรวจสอบภายใน",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Nitiphon.R@kasikornasset.com",
+        "fullNameEn": "Nitiphon Riangrungroj",
+        "fullNameTh": "นิธิพล เรียงรุ่งโรจน์",
+        "lineId": "Nitiphon Riangrungroj",
+        "openChatName": "-",
+        "phone": "091-959-6595",
+        "positionEn": "-",
+        "positionTh": "ผู้ช่วยบริหารงานฝ่ายกำกับ และตรวจสอบภายใน",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Mukayawimon.A@kasikornasset.com",
+        "fullNameEn": "Mukayawimon Aksornteang",
+        "fullNameTh": "มุขยวิมล อักษรถึง",
+        "lineId": "Mukayawimon Aksornteang",
+        "openChatName": "-",
+        "phone": "086-959-4014",
+        "positionEn": "-",
+        "positionTh": "ผู้กำกับการปฎิบัติงานฝ่ายกำกับ และตรวจสอบภายใน",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Jatuphol.R@kasikornasset.com",
+        "fullNameEn": "Jatuphol Ruangwinyoowech",
+        "fullNameTh": "จตุพล เรืองวิญญูเวช",
+        "lineId": "Jatuphol Ruangwinyoowech",
+        "openChatName": "-",
+        "phone": "089-770-2660",
+        "positionEn": "-",
+        "positionTh": "ผู้บริหารงานปฎิบัติการคอมพืวเตอร์",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Thanintorn.A@kasikornasset.com",
+        "fullNameEn": "Thanintorn Apisitsereekul",
+        "fullNameTh": "ธนินท์ธร อภิสิทธิ์เสรีกุล",
+        "lineId": "Thanintorn Apisitsereekul",
+        "openChatName": "-",
+        "phone": "061-415-6963",
+        "positionEn": "-",
+        "positionTh": "ผู้บริหารงานฝ่ายวิเคราะห์ และบริหารความเสี่ยง",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "อำพล ลิ้มประภัสสร",
+      "phone": "02 165 5555",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 209 อาคารเคเคพี ทาวเวอร์ ถนนสุขุมวิท 21 (อโศก) แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร10110",
+      "code": "",
+      "contactPersonEmail": "krit.kadn@kkpfg.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "กริช กาศนอก",
+      "contactPersonPhone": "02-351-1800",
+      "nameEn": "Kiatnakin Phatra Asset Management",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด",
+      "phone": "02 165 5555",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-17T17:00:00.000Z",
+      "email": "krit.kadn_aimc@kkpfg.com",
+      "fullNameEn": "-",
+      "fullNameTh": "กริช กาศนอก",
+      "phone": "097-180-9111",
+      "positionEn": "Head of IT Security",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายตราวุทธิ์ เหลืองสมบูรณ์",
+      "phone": "02-460-8888",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1111/9-10 ถนนลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900",
+      "code": "",
+      "contactPersonEmail": "pong@jitta.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "ศิลา สัจจินานนท์",
+      "contactPersonPhone": "-",
+      "nameEn": "Jitta Wealth Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน จิตตะ เวลธ์ จำกัด",
+      "phone": "02-460-8888",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-05-25T17:00:00.000Z",
+      "email": "pong@jitta.com",
+      "fullNameEn": "-",
+      "fullNameTh": "ศิลา สัจจินานนท์",
+      "phone": "092-328-9261",
+      "positionEn": "Cyber Security Manager",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายทาคาซิ คาวาคามิ",
+      "phone": "02-081-0523 Ext. 202",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "43 อาคารไทยซีซี ทาวเวอร์ ชั้นที่12 ห้องเลขที่ เอ120-เอ121 ถ.สาทรโต้ แขวงยานนาวา เขตสาทร กทม. 10120",
+      "code": "",
+      "contactPersonEmail": "info@sawakami.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วงศสิริ มิยาจิ",
+      "contactPersonPhone": "-",
+      "nameEn": "Sawakami Asset Management (Thailand) Co., Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ซาวาคามิ (ประเทศไทย) จำกัด",
+      "phone": "02-081-0523 ต่อ 202",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-03T17:00:00.000Z",
+      "email": "info@sawakami.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "วงศสิริ มิยาจิ",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "ผู้อำนวยการฝ่ายบริหารงานทั่วไป",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "compliance@sawakami.co.th",
+        "fullNameEn": "Kanit Saengwaree",
+        "fullNameTh": "กนิษฐ์ แสงวารี",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "-",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายกลิณ เทียนชัย",
+      "phone": "02-235-2575",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "88/8 อาคารแคปปิตอล ลิ้งค์ ชั้น 5 ถนนสาทรเหนือ แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
+      "code": "",
+      "contactPersonEmail": "Netilak@clfund.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "Netilak Deela",
+      "contactPersonPhone": "02-613-4991",
+      "nameEn": "CL Fund Management Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ซีแอล จำกัด (จัสท์)",
+      "phone": "02-235-2575",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-03T17:00:00.000Z",
+      "email": "Netilak@clfund.co.th",
+      "fullNameEn": "Netilak Deela",
+      "fullNameTh": "เนติลักษณ์ ดีลา",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "เจ้าหน้าที่ฝ่ายเทคโนโลยีสารสนเทศ",
+      "lineId": "Natilak Deela",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Piyatida@clfund.co.th",
+        "fullNameEn": "Piyatida Songwish",
+        "fullNameTh": "ปิยะธิดา ทรงวิช",
+        "lineId": "Piyatida Songwish",
+        "openChatName": "-",
+        "phone": "02-235-2575",
+        "positionEn": "Complience",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Kanchana@clfund.co.th",
+        "fullNameEn": "Kanchana Kanchanaphat",
+        "fullNameTh": "กาญจนา กาญจนพัฒน์",
+        "lineId": "Kanchana Kanchanaphat",
+        "openChatName": "-",
+        "phone": "02-235-2575",
+        "positionEn": "Complience",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายอยุทธ์ ชาญเศรษฐิกุล",
+      "phone": "02-119-5659",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "57 อาคารปาร์คเวนเซอร์ อีโคเพล็กซ์ ชั้น 11, 15 ห้อง 1112, 1511 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330",
+      "code": "",
+      "contactPersonEmail": "munlika@denali-asset.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "Munlika Kamuang",
+      "contactPersonPhone": "02-786-2301",
+      "nameEn": "Denali Prestige Asset Management Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน เดนาลี เพรสทีจ จำกัด",
+      "phone": "02-119-5659",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-28T17:00:00.000Z",
+      "email": "munlika@denali-asset.com",
+      "fullNameEn": "Munlika Kamuang",
+      "fullNameTh": "มัลลิกา ค่าม่วง",
+      "phone": "-",
+      "positionEn": "Head of Information and Technology",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "paisan@denali-asset.com",
+        "fullNameEn": "Paisan Supaphol",
+        "fullNameTh": "ไพศาล ศุภผล",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "02-119-5695",
+        "positionEn": "Head of Compliance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "sliriratana@denali-asset.com",
+        "fullNameEn": "Siriratana Srirojjanaratana",
+        "fullNameTh": "สิริรัตน์ ศรีโรจนรัตน์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "02-119-5669",
+        "positionEn": "Marketing",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "suarvee@denali-asset.com",
+        "fullNameEn": "Suarvee Chanachai",
+        "fullNameTh": "สุอาวี ชนะชัย",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "02-119-5629",
+        "positionEn": "Client Service",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "nuttika@denali-asset.com",
+        "fullNameEn": "Nuttika Rojanakiathavorn",
+        "fullNameTh": "ณัฏฐิกา โรจนเกียรติถาวร",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "02-119-5619",
+        "positionEn": "Complience",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายฉัตรพี ตันติเฉลิม",
+      "phone": "02-015-0222",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "89 ชั้น 10 ห้อง 1001-1002 อาคาร อาคารเอไอเอ แคปปิตอล เซ็นเตอร์ ถนนรัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯ 10400",
+      "code": "",
+      "contactPersonEmail": "santi.c@talisam.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "Santi Chairattanathananon",
+      "contactPersonPhone": "-",
+      "nameEn": "Talis Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ทาลิส จำกัด",
+      "phone": "02-015-0222",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-28T17:00:00.000Z",
+      "email": "santi.c@talisam.co.th",
+      "fullNameEn": "Santi Chairattanathananon",
+      "fullNameTh": "สันติ ชัยรัตนธนานนท์",
+      "phone": "-",
+      "positionEn": "IT",
+      "positionTh": "-",
+      "lineId": "Santi Chairattanathananon",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "manee.s@talisam.co.th",
+        "fullNameEn": "Manee Subsawatkul",
+        "fullNameTh": "มานี ทรัพย์สวัสดี์กุล",
+        "lineId": "Manee Subsawatkul",
+        "openChatName": "-",
+        "phone": "097-139-3666",
+        "positionEn": "COO",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "tasanee.p@talisam.co.th",
+        "fullNameEn": "Tasanee Phanichphan",
+        "fullNameTh": "ทัศนีย์ พานิชย์พันธ์",
+        "lineId": "Tasanee Phanichphan",
+        "openChatName": "-",
+        "phone": "091-750-2444",
+        "positionEn": "Senior Complience",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "touchaphol.b@talisam.co.th",
+        "fullNameEn": "Touchaphol Boonyaratmongkol",
+        "fullNameTh": "ธัชพล บุณยรัตน์มงคล",
+        "lineId": "Touchaphol Boonyaratmongkol",
+        "openChatName": "-",
+        "phone": "097-141-1666",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "jariya.t@talisam.co.th",
+        "fullNameEn": "Jariya Thongmee",
+        "fullNameTh": "จริยา ทองมี",
+        "lineId": "Jariya Thongmee",
+        "openChatName": "-",
+        "phone": "02-015-0239",
+        "positionEn": "VP Complience",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวภววิณี องค์วาสิฎฐ์",
+      "phone": "026336000 กด 4",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "48/16-17 อาคารทิสโก้ทาวเวอร์ ชั้น 9 ถนนสาทรเหนือ สีลม บางรัก กรุงเทพฯ 10500",
+      "code": "",
+      "contactPersonEmail": "Montris@tisco.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายมนตรี สิริปาณสาร",
+      "contactPersonPhone": "02-659-8731",
+      "nameEn": "Tisco Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ทิสโก้ จำกัด",
+      "phone": "026336000 กด 4",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-19T17:00:00.000Z",
+      "email": "Montris@tisco.co.th",
+      "fullNameEn": "Montri Siripanasarn",
+      "fullNameTh": "นายมนตรี สิริปาณสาร",
+      "phone": "02-613-4991",
+      "positionEn": "Head of IT",
+      "positionTh": "-",
+      "lineId": "Tisco : Montri",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "nattawutk@tisco.co.th",
+        "fullNameEn": "Nattawut Kongkhachwan",
+        "fullNameTh": "ณัฏฐวฒิ คงคชวัน",
+        "lineId": "Tiscoasset : Nattawut",
+        "openChatName": "-",
+        "phone": "083-036-5028",
+        "positionEn": "Cyber Security Specialist",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "thanawata@tisco.co.th",
+        "fullNameEn": "Thanawat Bamrungthai",
+        "fullNameTh": "ธนวัฒน์ บำรุงไทย",
+        "lineId": "Tiscoasset : Thanawat",
+        "openChatName": "-",
+        "phone": "083-036-5038",
+        "positionEn": "Cyber Security Lead",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "ekarat@tisco.co.th",
+        "fullNameEn": "Ekarat Pongkitvanichkul",
+        "fullNameTh": "เอกรัฐ พงษ์กิติวณิชกุล",
+        "lineId": "Tiscoasset :",
+        "openChatName": "-",
+        "phone": "081-702-9515",
+        "positionEn": "Head of IT Risk Management",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "keyoon@tisco.co.th",
+        "fullNameEn": "Keyoon Mrukul",
+        "fullNameTh": "เกยูร มฤกุล",
+        "lineId": "Tiscoasset :",
+        "openChatName": "-",
+        "phone": "089-116-0623",
+        "positionEn": "Senior Manager, IT Infra. And Oper.",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Naphak@tisco.co.th",
+        "fullNameEn": "Naphak Rattanacharan",
+        "fullNameTh": "นภัค รัตน์ชรัณ",
+        "lineId": "Tiscoasset : Napak",
+        "openChatName": "-",
+        "phone": "093-194-4699",
+        "positionEn": "Senior Business Services Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Chattraporn@tisco.co.th",
+        "fullNameEn": "Chattraporn Laophetcharat",
+        "fullNameTh": "ฉัตราภรณ์ เหล่าเพ็ชรรัตน์",
+        "lineId": "Tiscoasset : chattrap",
+        "openChatName": "-",
+        "phone": "083-036-5078",
+        "positionEn": "Senior Technology Specialist",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "เมธั่วดี ประเสริฐสินธนา",
+      "phone": "02-6181599",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "191 อาคารสีลมคอมเพล็กซ์ ชัน 24 ห้องเลขที่ เอ-ซี ถนนสีลม แขวงสีลม เขตบางรัก กรุงเทพฯ 10500",
+      "code": "",
+      "contactPersonEmail": "mayvadee@bcap.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "เมธาวดี ประเสริฐสินธนา",
+      "contactPersonPhone": "080-509-2286",
+      "nameEn": "Bangkok Capital Asset Management Company Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน บางกอกแคปปิตอล จำกัด",
+      "phone": "02-6181599",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-12T17:00:00.000Z",
+      "email": "mayvadee@bcap.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "เมธาวดี ประเสริฐสินธนา",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "กรรมการผู้จัดการ",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "kunteera.por@bcap.co.th",
+        "fullNameEn": "Kunteera Pornrojanagkool",
+        "fullNameTh": "กุณฑีรา พรโรจนางกูร",
+        "lineId": "Kunteera Pornrojanagkool",
+        "openChatName": "-",
+        "phone": "02-6181962",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Somchai.yue@bcap.co.th",
+        "fullNameEn": "Somchai Yuenyoungkulwut",
+        "fullNameTh": "สมชาย ยืนยงกุลวุฒิ",
+        "lineId": "Somchai Yuenyoungkulwut",
+        "openChatName": "-",
+        "phone": "083-036-5068",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Amorntheap.jat@bcap.co.th",
+        "fullNameEn": "Amorntheap Jatupornwatee",
+        "fullNameTh": "อมรเทพ จตุพรวาที",
+        "lineId": "Amorntheap Jatupornwatee",
+        "openChatName": "-",
+        "phone": "083-036-5078",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "-",
+      "phone": "02-786-2000",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 173/27-30, 31-33  อาคารเอเซียเซ็นเตอร์ ชั้น 23เอ, 25 ถนนสาทรใต้ แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120",
+      "code": "",
+      "contactPersonEmail": "pornchai.tha@uobgroup.co,",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "พรชัย ถาวรวิสุทธิกุล",
+      "contactPersonPhone": "-",
+      "nameEn": "UOB Asset Management",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ยูโอบี (ประเทศไทย) จำกัด",
+      "phone": "02-786-2000",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-14T17:00:00.000Z",
+      "email": "pornchai.tha@uobgroup.co,",
+      "fullNameEn": "-",
+      "fullNameTh": "พรชัย ถาวรวิสุทธิกุล",
+      "phone": "02-786-2301",
+      "positionEn": "Head of Business Technology",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "pornchai.tha@uobgroup.com",
+        "fullNameEn": "Pornchai Tha",
+        "fullNameTh": "พรชัย ถาวรวิสุทธิกุล",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "02-786-2301",
+        "positionEn": "Head of Business Strategy",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "kasin.isa@uobgroup.com",
+        "fullNameEn": "Kasin Isaranucheep",
+        "fullNameTh": "กสิณ อิศรานุชีพ",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "081-645-9543",
+        "positionEn": "Infrastructure",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "wittaya.kon@uobgroup.com",
+        "fullNameEn": "Wittaya Kongcharoen",
+        "fullNameTh": "วิทยา คงเจริญ",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "086-560-1579",
+        "positionEn": "Infrastructure",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "pornchai.sat@uobgroup.com",
+        "fullNameEn": "Pornchai Sathitphongstaporn",
+        "fullNameTh": "พรชัย สถิตพงศ์สถาพร",
+        "lineId": "Pornchai Sathitphongstaporn",
+        "openChatName": "-",
+        "phone": "080-604-5168",
+        "positionEn": "Infrastructure",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "attaphavith.pec@uobgroup.com",
+        "fullNameEn": "Attaphavit Petchpinan",
+        "fullNameTh": "อรรถปวิทย์ เพชรพินันต์",
+        "lineId": "Attaphavit Petchpinan",
+        "openChatName": "-",
+        "phone": "099-464-6144",
+        "positionEn": "IT Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายมนรัฐ ผดุงสิทธิ์",
+      "phone": "02-286-3484",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 11 อาคารคิวเฮ้าส์สาทร ชั้น 10, 14 ถนนสาทร ใต้ แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120",
+      "code": "",
+      "contactPersonEmail": "peerapuns@lhfund.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "พีระพันธ์ สังข์พันธุ์",
+      "contactPersonPhone": "02-353-8715",
+      "nameEn": "LAND AND HOUSES FUND MANAGEMENT CO.,LTD.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด",
+      "phone": "02-286-3484",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-02T17:00:00.000Z",
+      "email": "peerapuns@lhfund.co.th",
+      "fullNameEn": "Peerapun Sangpun",
+      "fullNameTh": "พีระพันธ์ สังข์พันธุ์",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "รักษาการผู้ช่วยกรรมการ ผู้อำนวยการ สายเทคโนโลยีสารสนเทศ",
+      "lineId": "Peerapun Sangpun",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "pisupp@lhfund.co.th",
+        "fullNameEn": "Pisup Punrana",
+        "fullNameTh": "ไพทรัพย์ พรรณา",
+        "lineId": "Pisup Punrana",
+        "openChatName": "-",
+        "phone": "02-286-3484 : 357",
+        "positionEn": "AVP",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "pisita@lhfund.co.th",
+        "fullNameEn": "Pisit Apirattanaprapas",
+        "fullNameTh": "พิสิษฐ์ อภิรัตนประภาส",
+        "lineId": "Pisit Apirattanaprapas",
+        "openChatName": "-",
+        "phone": "02-286-3484 : 359",
+        "positionEn": "AVP",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "-",
+      "phone": "02-659-8888",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "989 อาคารสยามพิวรรธน์ทาวเวอร์ ชั้น 9,24 ถนนพระราม 1 แขวงปทุมวัน เขตปทุมวัน กรุงเทพฯ 10330",
+      "code": "",
+      "contactPersonEmail": "kriengkrai.p@one-asset.com",
+      "contactPersonNameEn": "Kriengkrai Puapuniwat",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "One Asset Management Limited.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน วรรณ จำกัด",
+      "phone": "02-659-8888",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-11-14T17:00:00.000Z",
+      "email": "kriengkrai.p@one-asset.com",
+      "fullNameEn": "Kriengkrai Puapunniwat",
+      "fullNameTh": "เกรียงไกร พัวพันธุ์นิวัฒน์",
+      "phone": "02-659-8731",
+      "positionEn": "-",
+      "positionTh": "ผู้ช่วยกรรมการผู้จัดการ",
+      "lineId": "Kriengkrai Puapunniwat",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "jirarath.t@one-asset.com",
+        "fullNameEn": "Jirarath Thongdet",
+        "fullNameTh": "จิรารัตน์ ทองเดช",
+        "lineId": "Jirarath Thongdet",
+        "openChatName": "-",
+        "phone": "02-659-8733",
+        "positionEn": "Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "chalermpol.d@one-asset.com",
+        "fullNameEn": "Chalempol Diewtrakul",
+        "fullNameTh": "เฉลิมพล เดียวตระกูล",
+        "lineId": "Chalempol Diewtrakul",
+        "openChatName": "-",
+        "phone": "02-659-8735",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาววรางคณา อัครสถาพร",
+      "phone": "02-030-3730",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 59 สิรีแคมบัส อาคารดี ชั้น 2 ซอยริมคลองพระโขนง แขวงพระโขนงเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
+      "code": "",
+      "contactPersonEmail": "Pramapornc@xspringcapital.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นางสาว ประมาภรณ์ จตุราภิรมย์",
+      "contactPersonPhone": "-",
+      "nameEn": "X Spring Asset Management Company Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน เอ็กซ์สปริง จำกัด",
+      "phone": "02-030-3730",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-10-14T17:00:00.000Z",
+      "email": "Pramapornc@xspringcapital.com",
+      "fullNameEn": "Pramaporn Chaturaphirom",
+      "fullNameTh": "ประมาภรณ์ จตุราภิรมย์",
+      "phone": "080-509-2286",
+      "positionEn": "IT Compliance",
+      "positionTh": "-",
+      "lineId": "XSping - Pramaporn",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Kitisak@xspringam.com",
+        "fullNameEn": "Kitisak Charoenpokanont",
+        "fullNameTh": "กิติศักดิ์ เจริญโภคานนท์",
+        "lineId": "XSpring AM  Kitisak",
+        "openChatName": "-",
+        "phone": "085-364-8080",
+        "positionEn": "CTO",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Achiraya@xspringam.com",
+        "fullNameEn": "Achiraya Phupongskorn",
+        "fullNameTh": "อชิรญา ภู่พงศกร",
+        "lineId": "XAM : Achiraya",
+        "openChatName": "-",
+        "phone": "062-9192655",
+        "positionEn": "Compliance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายธนโชติ รุ่งสิทธิวัฒน์",
+      "phone": "0-2649-2000",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "199 อาคารคอลัมน์ทาวเวอร์ ชั้นจีและชั้น 21-23 ถนนรัชดาภิเษก แขวงคลองเตย เขตคลองเตย กรุงเทพฯ 1011จ",
+      "code": "",
+      "contactPersonEmail": "anotai@mfcfund.com",
+      "contactPersonNameEn": "Anotai Jitruknate",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "MFC ASSET MANAGEMENT PUBLIC COMPANY LIMITED",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+      "phone": "0-2649-2000",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-28T17:00:00.000Z",
+      "email": "anotai@mfcfund.com",
+      "fullNameEn": "Anotai Jitruknate",
+      "fullNameTh": "-",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "ผู้อำนวยการอาวุโส",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "anotal@mfcfund.com",
+        "fullNameEn": "Anotai Jitruknatee",
+        "fullNameTh": "อโณทัย จิตรักนที",
+        "lineId": "Anotai Jitruknatee",
+        "openChatName": "-",
+        "phone": "Anotai Jitruknatee",
+        "positionEn": "-",
+        "positionTh": "ผู้อำนวยการอาวุโส",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "maitree@mfcfund.com",
+        "fullNameEn": "Maitree Deecruen",
+        "fullNameTh": "ไมตรี ดีคริ้น",
+        "lineId": "Maitree Deecruen",
+        "openChatName": "-",
+        "phone": "Maitree Deecruen",
+        "positionEn": "-",
+        "positionTh": "ผู้ช่วยผู้อำนวยการอาวุโส",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "-",
+      "phone": "02-353-8715",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "181/19 เอไอเอ ทาวเวอร์ 2 ชั้น 11 ถนนสุรวงศ์ แขวงสุริยวงศ์ เขตบางรัก กรุงเทพฯ 10500",
+      "code": "",
+      "contactPersonEmail": "aiaimt.it@aia.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายสุรินทร์ เอี่ยมทัศน์",
+      "contactPersonPhone": "-",
+      "nameEn": "AIA Investment Management (Thailand) Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน เอไอเอ (ประเทศไทย) จำกัด",
+      "phone": "02-353-8715",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-14T17:00:00.000Z",
+      "email": "aiaimt.it@aia.com",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสุรินทร์ เอี่ยมทัศน์",
+      "phone": "02-353-8715",
+      "positionEn": "Senior Manager",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Chawalit-C.Thongsujalitkul@aia.com",
+        "fullNameEn": "Chawalit Thongsujalitkul",
+        "fullNameTh": "ชวลิต ทองสจริตกา",
+        "lineId": "Chawalit Thongsujalitkul",
+        "openChatName": "-",
+        "phone": "02-353-8783",
+        "positionEn": "ADIT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Surin-S.Eiamtush@aia.com",
+        "fullNameEn": "Surin Eiamtush",
+        "fullNameTh": "สุรินทร์ เอียมทัศน์",
+        "lineId": "Surin Eiamtush",
+        "openChatName": "-",
+        "phone": "0-2353-8715",
+        "positionEn": "Senior Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Chittapat.Phiboonsoonthornpreda@aia.com",
+        "fullNameEn": "Chittapat Phiboonsoonthornpreda",
+        "fullNameTh": "จิตตาพัฒน์ พิมลสุนทรปรีดา",
+        "lineId": "Chittapat Phiboonsoonthornpreda",
+        "openChatName": "-",
+        "phone": "0-2353-8790",
+        "positionEn": "Manager IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Bodin-B.Ratinithichayanant@aia.com",
+        "fullNameEn": "Bodin Ratinithichayanant",
+        "fullNameTh": "บดินทร์ รตินธิชยงนันท์",
+        "lineId": "Bodin Ratinithichayanant",
+        "openChatName": "-",
+        "phone": "0-2353-8787",
+        "positionEn": "IT Operation",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Krissadee.Areeyamaitta@aia.com",
+        "fullNameEn": "Krissadee Areeyamaitta",
+        "fullNameTh": "กฤษฎี อารียเมตตา",
+        "lineId": "Krissadee Areeyamaitta",
+        "openChatName": "-",
+        "phone": "-",
+        "positionEn": "AD Risk",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "Mok Swee Meng",
+      "fullNameTh": "-",
+      "phone": "02-038-4480",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "319 Chamchuri Square Building, 12th floor, Phayathai Road, Pathumwan, Bangkok 10330",
+      "addressTh": "-",
+      "code": "",
+      "contactPersonEmail": "vutipong@airaasset.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วุฒิพงษ์ วัชรมัย",
+      "contactPersonPhone": "-",
+      "nameEn": "AIRA Asset Management Company Limited",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน ไอร่า จำกัด",
+      "phone": "02-038-4480",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-29T17:00:00.000Z",
+      "email": "vutipong@airaasset.co.th",
+      "fullNameEn": "Vutipong Vacharama",
+      "fullNameTh": "วุฒิพงษ์ วัชรมัย",
+      "phone": "-",
+      "positionEn": "IT VP",
+      "positionTh": "-",
+      "lineId": "Vutipong Vacharama",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายณัฐพัชร์ เจียรวงศ์",
+      "phone": "02-674 6488",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "175 อาคารสาธรชิตีทาวเวอร์ ชัน 7 ชัน 21 และ ชัน 26 ถนนสาทรใต้ แขวงท่งมหาเมฆ เขตสาทร กรุงเทพฯ 10120",
+      "code": "",
+      "contactPersonEmail": "Chansit.si@bblam.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายชาญสิทธิ์ สิริธนาโชติ",
+      "contactPersonPhone": "-",
+      "nameEn": "BBL Asset Management Co.,Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด",
+      "phone": "02-674 6488",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-10T17:00:00.000Z",
+      "email": "Chansit.si@bblam.co.th",
+      "fullNameEn": "Chansit Siritanachot",
+      "fullNameTh": "นายชาญสิทธิ์ สิริธนาโชติ",
+      "phone": "-",
+      "positionEn": "AMD, Head of Information Technology",
+      "positionTh": "-",
+      "lineId": "Chansit Siritanachot",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "bussayamass.ng@bblam.co.th",
+        "fullNameEn": "Bussayamass Ngamsakulcharoenchai",
+        "fullNameTh": "บุษยมาส งามสกุลเจริญชัย",
+        "lineId": "Bussayamass Ngamsakuncharoenchai",
+        "openChatName": "-",
+        "phone": "02-674-6681",
+        "positionEn": "IT Governance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "suwit.si@bblam.co.th",
+        "fullNameEn": "Suwit Sirasitworapat",
+        "fullNameTh": "สุวิทย์ ศิรสิทธิ์วรภัทร   ",
+        "lineId": "Nirunrat",
+        "openChatName": "-",
+        "phone": "02-674-6668",
+        "positionEn": "IT Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสุชาติ เจริญวุฒิคุณ",
+      "phone": "02-153-9290",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "849 ชั้น 22 อาคารวรวัฒน์ ต.สีลม แขวงสีลม เขตบางรัก กรุงเทพฯ",
+      "code": "",
+      "contactPersonEmail": "tanawanw@phillip.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "ธนวันก์ วงษ์สอาด",
+      "contactPersonPhone": "-",
+      "nameEn": "Phillip Asset Management Co., Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุนรวม ฟิลลิป จำกัด",
+      "phone": "02-153-9290",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-28T17:00:00.000Z",
+      "email": "tanawanw@phillip.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "ธนวันก์ วงษ์สอาด",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "tanawan.w@phillip.co.th",
+        "fullNameEn": "Tanawan Wongsa-ard",
+        "fullNameTh": "ธนวันด์ วงษ์สอาด",
+        "lineId": "Nirunrat",
+        "openChatName": "-",
+        "phone": "02-153-9290 : 1199",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "thannop.s@phillip.co.th",
+        "fullNameEn": "Thannop Subhakit",
+        "fullNameTh": "ธรรณพ ศุภกิจ",
+        "lineId": "Thannop Subhakit",
+        "openChatName": "-",
+        "phone": "02-153-9290 : 1195",
+        "positionEn": "Compliance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "lrawats@phillip.co.th",
+        "fullNameEn": "Jirawat Siriwatkul",
+        "fullNameTh": "จีราวัชร ศิริวัฒนกุล",
+        "lineId": "Jirawat Siriwatkul",
+        "openChatName": "-",
+        "phone": "02-153-9290 : 1187",
+        "positionEn": "Marketing",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "anchaleek@phillip.co.th",
+        "fullNameEn": "Anchalee Kaweeworawutti",
+        "fullNameTh": "อัญชสี กวีวรวุฒิ",
+        "lineId": "Anchalee Kaweeworawutti",
+        "openChatName": "-",
+        "phone": "02-153-9290 : 1185",
+        "positionEn": "Operation",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "-",
+      "phone": "02-107-1860",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที่ 1-7 อาคารซิลลิคเฮ้าส์ Unit 1A ชั้น 6 ถนนสีลม แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
+      "code": "",
+      "contactPersonEmail": "jakkrit@robowealth.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "จักรกฤษณ์ ชินวรรัตนกนก",
+      "contactPersonPhone": "-",
+      "nameEn": "ROBOWEALTH MUTUAL FUND BROKERAGE SECURITES COMPANY LIMITED",
+      "nameTh": "บริษัท หลักทรัพย์นายหน้าซื้อขายหน่วยลงทุน โรโบเวลธ์ จำกัด",
+      "phone": "02-107-1860",
+      "sector": "สมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-02-09T17:00:00.000Z",
+      "email": "jakkrit@robowealth.co.th",
+      "fullNameEn": "Jakkrit Chinvoraratanakanok",
+      "fullNameTh": "จักรกฤษณ์ ชินวรรัตนกนก",
+      "phone": "-",
+      "positionEn": "Technology Director",
+      "positionTh": "-",
+      "lineId": "Jakkrit Chinvoraratanakanok",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "varut@robowealth.co.th",
+        "fullNameEn": "Varut Rujitanont",
+        "fullNameTh": "วรุตม์ รุจิตานนท์",
+        "lineId": "Varut Rujitanont",
+        "openChatName": "-",
+        "phone": "085-991-1255",
+        "positionEn": "DevOps",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "konthanat@robowealth.co.th",
+        "fullNameEn": "Korntanat Bunneeramit",
+        "fullNameTh": "กรธนัท บุญเนรมิตร",
+        "lineId": "Korntanat Bunneeramit",
+        "openChatName": "-",
+        "phone": "085-666-5223",
+        "positionEn": "DevOps",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "Mr.Anand Periwal",
+      "fullNameTh": "นายวิโรจน์ รัตนชัยสิทธิ์",
+      "phone": "02-026-6574",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "อาคาร เกษรอัมรินทร์ ชั้น 9 เลขที่ 496-502 ถนนเพลินจิต แขวงลมพินี เขตปทุมวัน จังหวัดกรุงเทพฯ 10330",
+      "code": "",
+      "contactPersonEmail": "Navasit@siamvalidus.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายนวสิทธิ์ สุมน",
+      "contactPersonPhone": "-",
+      "nameEn": "SIAM VALIDUS CAPITAL CO.,LTD.",
+      "nameTh": "บริษัท สยาม วาลิดัส แคปปิตอล จำกัด",
+      "phone": "02-026-6574",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-03T17:00:00.000Z",
+      "email": "Navasit@siamvalidus.co.th",
+      "fullNameEn": "Navasit Sumon",
+      "fullNameTh": "นวสิทธิ์ สุมน",
+      "phone": "-",
+      "positionEn": "Head of Compliance",
+      "positionTh": "-",
+      "lineId": "093-559-4565",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Kasidet@siamvalidus.co.th",
+        "fullNameEn": "Kasidet Ketsut",
+        "fullNameTh": "กษิดิ์เดช เกตุสุทธิ์",
+        "lineId": "099-052-1001",
+        "openChatName": "-",
+        "phone": "099-052-1001",
+        "positionEn": "Head of Data, Products and Platform",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Thanom@siamvalidus.co.th",
+        "fullNameEn": "Thanom Panyarean",
+        "fullNameTh": "ถนอม ปัญญาเรือน",
+        "lineId": "081-452-9398",
+        "openChatName": "-",
+        "phone": "081-452-9398",
+        "positionEn": "IT Hhelpdesk and Technical Support",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Wuttinun@siamvalidus.co.th",
+        "fullNameEn": "Wuttinun Thongpun",
+        "fullNameTh": "วุฒินันท์ ทองปั้น",
+        "lineId": "088-326-4086",
+        "openChatName": "-",
+        "phone": "088-326-4086",
+        "positionEn": "Data Analyst",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Pornkamon@siamvalidus.co.th",
+        "fullNameEn": "Pornkamon Sirivoravijit",
+        "fullNameTh": "พรกมล ศิริวรวิจิตร",
+        "lineId": "082-156-9393",
+        "openChatName": "-",
+        "phone": "082-156-9393",
+        "positionEn": "Senior Data Analyst",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวแก้วกัลย์ ราชวัตลภานสิษฐ์",
+      "phone": "02 6198099",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "ที่ 1025 อาคารยาคุลท์ ชัน 15 ถนนพหลโยธิน แขวงพญาไท เขตพญาไท กรุงเทพมหานคร 10400",
+      "code": "",
+      "contactPersonEmail": "kaewkalr@investree.co.th",
+      "contactPersonNameEn": "Kaewkal Rajavallabhanusith ",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "INVESTREE (Thailand) Company Limited",
+      "nameTh": "บริษัท อินเวสทรี (ไทยแลนด์) จำกัด",
+      "phone": "02 6198099",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-25T17:00:00.000Z",
+      "email": "Kaewkalr@investree.co.th",
+      "fullNameEn": "Kaewkal Rajavallabhanusith ",
+      "fullNameTh": "แก้วกัลย์ ราชวัลลภานสิษฐ์",
+      "phone": "-",
+      "positionEn": "CTO ",
+      "positionTh": "-",
+      "lineId": "Kaewkal Rajavallabhanusith",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "sanyap@investree.co.th",
+        "fullNameEn": "Sanya Piengprasitporn",
+        "fullNameTh": "สัญญา เพียงประสิทธิพร",
+        "lineId": "Sanya Piengprasitporn",
+        "openChatName": "-",
+        "phone": "02-619-8099",
+        "positionEn": "IT Operation",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Morganl@investree.co.th",
+        "fullNameEn": "Mogan Lienemann",
+        "fullNameTh": "มอร์แกน ลีเนอแมน",
+        "lineId": "Mogan Lienemann",
+        "openChatName": "-",
+        "phone": "02-619-8099",
+        "positionEn": "Enginee",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวฐิภา นววัฒนทรัพย์",
+      "phone": "02-687-9999",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "653/19 ซอยสวนพลู ถนนสวนพลู แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพฯ 10120",
+      "code": "",
+      "contactPersonEmail": "saowanee.c@ylgfutures.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นางสาวเสาวณีย์ จันพอน",
+      "contactPersonPhone": "02-687-9999",
+      "nameEn": "YLG Bullion International Co., LTD.",
+      "nameTh": "บริษัท วายแอลจี บูลเลี่ยน แอนด์ ฟิวเจอร์ส จำกัด",
+      "phone": "02-687-9999",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-14T17:00:00.000Z",
+      "email": "saowanee.c_aimc@ylgfutures.co.th",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวเสาวณีย์ จันพอน",
+      "phone": "02-687-9999",
+      "positionEn": "-",
+      "positionTh": "ผู้จัดฝ่ายเทคโนโลยีสารสนเทศ",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "ธนัชพงศ์ อภิธนากิตติวัฒน์",
+      "phone": "02-105-0900",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "57 อาคารปาร์คเวนเซอร์ อีโคเพล็กซ์ ชันที21 ห้อง2101-2103 และ 2112 ถนนวิทยุ แขวงลุมพีนี เขตปทุมวัน กรุงเพทมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "thanatphong.apithanakittiwat@lgt.com",
+      "contactPersonNameEn": "thanatphong apithanakittiwat",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "02-105-0123",
+      "nameEn": "LGT Securities (Thailand) Limited",
+      "nameTh": "บริษัท หลักทรัพย์ แอลจีที (ประเทศไทย) จำกัด (สำนักงานใหญ่)",
+      "phone": "02-105-0900",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-11-13T17:00:00.000Z",
+      "email": "thanatphong.apithanakittiwat@lgt.com",
+      "fullNameEn": "thanatphong apithanakittiwat",
+      "fullNameTh": "ธนัชพงศ์ อภิธนากิตติวัฒน์",
+      "phone": "02-105-0123",
+      "positionEn": "IT Manager",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาว นริสรา ชัยวัฒนะ",
+      "phone": "02-249-2999",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1 อาคารคิวเฮ้าส์ ลุมพินี ขันที 25 ถนนสาทรใต้ แขวงทุ่งมหาเมฆ เขตสาทร กรงเทพมหานคร 10120",
+      "code": "",
+      "contactPersonEmail": "veerawat@bluebellgroup.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วิรัช ลีนะวงศ์อนันต์",
+      "contactPersonPhone": "-",
+      "nameEn": "BLUEBELL SECURITIES CO., LTD.",
+      "nameTh": "บริษัทหลักทรัพย์ บลูเบลล์ จำกัด ",
+      "phone": "02-249-2999",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-15T17:00:00.000Z",
+      "email": "veerawat@bluebellgroup.co.th",
+      "fullNameEn": "Veerawat Nulek",
+      "fullNameTh": "วีรวัฒน์ หนูเล็ก",
+      "phone": "-",
+      "positionEn": "IT Infrastructure and Information Security",
+      "positionTh": "-",
+      "lineId": "Veerawat Nulek",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "noppawan@bluebellgroup.co.th ",
+        "fullNameEn": "Noppawan Srisawangwong",
+        "fullNameTh": "นพวรร ศรีสว่างวงศ์",
+        "lineId": "Noppawan Srisawangwong",
+        "openChatName": "-",
+        "phone": "081-375-1545",
+        "positionEn": "VP",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "chatchai@bluebellgroup.co.th",
+        "fullNameEn": "Chatchai Trirattanapikul",
+        "fullNameTh": "ฉัตรชัย ไตรรัตนาภิกุล",
+        "lineId": "Chatchai Trirattanapikul",
+        "openChatName": "-",
+        "phone": "086-978-3494",
+        "positionEn": "Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "suphakarn@bluebellgroup.co.th",
+        "fullNameEn": "Suphakam Soseesukh",
+        "fullNameTh": "ศุภกานต์ โสสีสุข",
+        "lineId": "Suphakam Soseesukh",
+        "openChatName": "-",
+        "phone": "084-726-9883",
+        "positionEn": "Senior Officer",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "kwanta@bluebellgroup.co.th",
+        "fullNameEn": "Kwanta Ornpim",
+        "fullNameTh": "ขวัญตา อ่อนพิมพ์",
+        "lineId": "Kwanta Ornpim",
+        "openChatName": "-",
+        "phone": "087-323-5654",
+        "positionEn": "AVP",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสมเกียรติ ชินธรรมมิตร์",
+      "phone": "02-4371588",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "383 อาคารชินพงษ์ แขวงสมเด็จเจ้าพระยา เขตคลองสาน กทม. 10600",
+      "code": "",
+      "contactPersonEmail": "jirasak.tonw@wealthmagik.com",
+      "contactPersonNameEn": "Jirasak Tonwongwal",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "Wealth Magik Securities Co., Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์ เว็ลธ์ เมจิก จำกัด",
+      "phone": "02-4371588",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-01T17:00:00.000Z",
+      "email": "jirasak.tonw@wealthmagik.com",
+      "fullNameEn": "Jirasak Tonwongwal",
+      "fullNameTh": "จิระศักดิ์ ตันวงศ์วาล",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "รองกรรมการผู้จัดการ",
+      "lineId": "jirasak.t",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "phongsak.pojt@wealth.co.th",
+        "fullNameEn": "Phongsak Pojtanaditee",
+        "fullNameTh": "พงษ์ศักดิ์ พจน์ธนาดิถี",
+        "lineId": "pongsak_beer",
+        "openChatName": "-",
+        "phone": "02-437-1588 : 5761",
+        "positionEn": "VP",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "bansit.kuna@wealth.co.th",
+        "fullNameEn": "Bansit Kunasri",
+        "fullNameTh": "บรรษิฏฐ์ คุณะศรี",
+        "lineId": "Kengbansit",
+        "openChatName": "-",
+        "phone": "02-861-4826 : 3591",
+        "positionEn": "IT Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "chayut.kotp@wealth.co.th",
+        "fullNameEn": "Chayut Kotput",
+        "fullNameTh": "ชยุตม์ โคตรพัฒน์",
+        "lineId": "forclound",
+        "openChatName": "-",
+        "phone": "02-437-1588 : 5582",
+        "positionEn": "IT Support",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายบุญชัยเกียรติชนาวิทย์",
+      "phone": "02-021-2900",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "444 อาคารเอ็มบีเค ทาวเวอร์ ชัน 17 ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพฯ 10330",
+      "code": "",
+      "contactPersonEmail": "Witsatthawan.Vim@thanachart.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นางสาววิศัทวรรณ วิมลศิลปัน",
+      "contactPersonPhone": "-",
+      "nameEn": "Thanachart.Wealth Securities Company,Limited",
+      "nameTh": "บริษัท หลักทรัพย์ ธนชาตเวลธ์ จำกัด",
+      "phone": "02-021-2900",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-15T17:00:00.000Z",
+      "email": "Witsatthawan.Vim@thanachart.co.th",
+      "fullNameEn": "Witsatthawan Vimonsinlapin",
+      "fullNameTh": "วิศัทวรรณ วิมลศิลปิน",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "ผู้ช่วยผู้จัดการ ส่วนกำกับระเบียบและข้อบังคับ",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "donyarat.sir@thanachart.co.th",
+        "fullNameEn": "Donyarat Sirivech",
+        "fullNameTh": "ดลยารัตน์ ศิริเวช",
+        "lineId": "Donyarat Sirivech",
+        "openChatName": "-",
+        "phone": "02-217-80000 : 6267",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Panupong.put@thanachart.co.th",
+        "fullNameEn": "Panupong Puthomdee",
+        "fullNameTh": "ภาณุพงษ์ ภูถมดี",
+        "lineId": "Panupong Puthomdee",
+        "openChatName": "-",
+        "phone": "02-217-80000 : 6230",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายยศกร นิรันดร์วิชย",
+      "phone": "02-821-6888",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "725 อาคารเอส เมโทร ชั้น 18 ห้อง 1801 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
+      "code": "",
+      "contactPersonEmail": "pichamon@stashaway.com",
+      "contactPersonNameEn": "Pichamon Pollakul",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "StashAway Asset Management (Thailand) Co., Ltd",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน สแทซอเวย์ (ประเทศไทย) จำกัด",
+      "phone": "02-821-6888",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-25T17:00:00.000Z",
+      "email": "pichamon@stashaway.com",
+      "fullNameEn": "Pichamon Pollakul",
+      "fullNameTh": "-",
+      "phone": "-",
+      "positionEn": "Head of Compliance",
+      "positionTh": "-",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "tim@stashaway.com",
+        "fullNameEn": "Yotsakorn Nirandravichaya",
+        "fullNameTh": "ยศกร นิรันดร์วิชย",
+        "lineId": "WCC:Rangsan",
+        "openChatName": "-",
+        "phone": "-",
+        "positionEn": "-",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสุทธิสิทธิ์ แจ่มดี",
+      "phone": "02-1614990",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "63 Athenee tower, 16th Fl.,Unit 1605/1, Wireless Road,Lumphini, Pathumwan,Bangkok, Thailand 10330",
+      "addressTh": "-",
+      "code": "",
+      "contactPersonEmail": "nawin.a@guardiancapitalam.com",
+      "contactPersonNameEn": "Nawin Aimwut ",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "Gurdian Capital Asset Management Company Limited.",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทุน การ์เดียนแคปิตอล จำกัด",
+      "phone": "02-1614990",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-28T17:00:00.000Z",
+      "email": "nawin.a@guardiancapitalam.com",
+      "fullNameEn": "Nawin Aimwut",
+      "fullNameTh": "นาวิน เอี่อมวุฒิ",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "ผู้บริหารฝ่ายอาวุโส",
+      "lineId": "Nawin Aimwut",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Koraphata@guardiancapitalam.com",
+        "fullNameEn": "Koraphat Ariyadirek",
+        "fullNameTh": "กรภัทร์ อริยาดิเรก",
+        "lineId": "Koraphat Ariyadirek",
+        "openChatName": "-",
+        "phone": "02-161-4979",
+        "positionEn": "-",
+        "positionTh": "ผู้บริหารฝ่ายหน่วยงาน",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Pocharapol.j@guardiancapitalam.com",
+        "fullNameEn": "Pocharapol Jiraphan",
+        "fullNameTh": "พชรพล จิระพันธุ์",
+        "lineId": "Pocharapol Jiraphan",
+        "openChatName": "-",
+        "phone": "02-161-4982",
+        "positionEn": "-",
+        "positionTh": "เจ้าหน้าที่บรืหารความเสี่ยงอาวุโส",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสิทธิชัย จิตตั้งตรง",
+      "phone": "02-266-6698-7",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "52 อาคารธนิยะพลาซา ชั้น 14 โซนบี ถนนสีลม แขวงสุริยวงศ์ เขตบางรัก กรุงเทพมหานคร 10500",
+      "code": "",
+      "contactPersonEmail": "komkrit@wealthrepublic.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "นายคมกฤต รัตนวิลับ",
+      "contactPersonPhone": "-",
+      "nameEn": "Wealth Republic Mutual Fund Brokerage Securities Co., Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์นายหน้าซื้อขายหน่วยลงทุน เวลท์ รีพับบลิค จำกัด",
+      "phone": "02-266-6698-7",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-01-15T17:00:00.000Z",
+      "email": "komkrit@wealthrepublic.co.th",
+      "fullNameEn": "Komkrit Ratanavilai",
+      "fullNameTh": "นายคมกฤต รัตนวิลับ",
+      "phone": "-",
+      "positionEn": "Head of IT",
+      "positionTh": "-",
+      "lineId": "Komkrit Ratanavilai",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายจงรักษ์ ขันติอุดม",
+      "phone": "02-0168600",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "101 ทรูดิจิตัลพาร์ค อาคารฟินิกส์ ชั้น 7 ถ.สุขุมวิท กทม 10260",
+      "code": "",
+      "contactPersonEmail": "pattadon.sin@ascendcorp.com",
+      "contactPersonNameEn": "Pattadon Sintusak",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "Ascend Wealth Co.ltd",
+      "nameTh": "บลน. แอสเซนต์ เวลธ์จำกัด",
+      "phone": "02-0168600",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-01T17:00:00.000Z",
+      "email": "pattadon.sin@ascendcorp.com",
+      "fullNameEn": "Pattadon Sintusak",
+      "fullNameTh": "พัทธดนย์ สินธุสัตต",
+      "phone": "-",
+      "positionEn": "IT Compliance",
+      "positionTh": "-",
+      "lineId": "Pattadon Sintusak",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "kanokwan.aim@ascendcorp.com",
+        "fullNameEn": "Kanokwan Aimsumang",
+        "fullNameTh": "กนกวรรณ เอี่ยมสำอางค์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "089-1166314",
+        "positionEn": "Head of IT Security",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "pongsak.yod@ascendcorp.com",
+        "fullNameEn": "pongsak Yodjai",
+        "fullNameTh": "พงศักดิ์ ยอดใจ",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "089-1166314",
+        "positionEn": "Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "sukritpol.sae@ascendcorp.com",
+        "fullNameEn": "Sukritpol Saeneewong na ayuthaya",
+        "fullNameTh": "สุกฤตพล เสนีย์วงศ์ ณ อยุรยา",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "089-1166314",
+        "positionEn": "Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายสกุนพัฒน์ จิรวุฒิตานันท์ และนางสาวกาคศิรี ธนพัชรศิรี",
+      "phone": "02-095-5688",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "1152 อาคารปัน ห้องเลขที่ 2606 ชั้นที่ 26 ถนนพระรามที่ 4 แขวงคลองเตย เขตคลองเตย กทม. 10110",
+      "code": "",
+      "contactPersonEmail": "sakunphat@trasurist.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "ศกุนพัฒน์ จิรวุฒิตานันท์",
+      "contactPersonPhone": "081-307-2777",
+      "nameEn": "Treasurist Mutual Fund Brokerage Securities Company Limited",
+      "nameTh": "บริษัท หลักทรัพย์นายหน้าซื้อขายหน่วยลงทุน เทรเซอริสต์ จำกัด",
+      "phone": "02-095-5688",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-05T17:00:00.000Z",
+      "email": "sakunphat@treasurist.com",
+      "fullNameEn": "-",
+      "fullNameTh": "ศกุนพัฒน์ จิรวุฒิตานันท์",
+      "phone": "081-307-2777",
+      "positionEn": "-",
+      "positionTh": "กรรมการ",
+      "lineId": "-",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "PORTAL",
+        "email": "Chumpol@treasurist.com",
+        "fullNameEn": "Chumpol kitipunrun",
+        "fullNameTh": "ศกุนพัฒน์ จิรวุฒิตานันท์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "081-307-2777",
+        "positionEn": "-",
+        "positionTh": "กรรมการ",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Irin@treasurist.com",
+        "fullNameEn": "Irin Rojchanakarn",
+        "fullNameTh": "ไอริณ โรจนกาญจน์",
+        "lineId": "treasurist:Irin",
+        "openChatName": "-",
+        "phone": "065-715-4665",
+        "positionEn": "Operation Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "OPENCHAT",
+        "email": "Phongsagon@treasurist.com",
+        "fullNameEn": "Phongsagon Saensombat",
+        "fullNameTh": "พงศกร แสนสมบัติ",
+        "lineId": "treasurist:Phongsagon",
+        "openChatName": "-",
+        "phone": "094-614-1989",
+        "positionEn": "Operation Executive",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นายเจษฎา ยุงพิทยาพงศ์",
+      "phone": "02-2507907",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "เลขที 87/2 อาคารซิอาร์ซิทาวเวอร์ ออลซิชันส์เพลส ชันที 40 ถนนวิทยุ แขวง ลุมทีนี เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "rangsan.m@wealthconcept.co.th",
+      "contactPersonNameEn": "Rangsan Manutmanachai",
+      "contactPersonNameTh": "-",
+      "contactPersonPhone": "-",
+      "nameEn": "Wealth Concept Mutual Fund Brokerage Securities Co., Ltd.",
+      "nameTh": "บริษัท หลักทรัพย์นายหน้าซื่อขายหน่วยลงทุน เวลซ์ ดอนเซปท์ จำกัด",
+      "phone": "02-2507907",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-03T17:00:00.000Z",
+      "email": "rangsan.m@wealthconcept.co.th",
+      "fullNameEn": "Rangsan Manutmanachai",
+      "fullNameTh": "รังสรรค์ มนัสมานะชัย",
+      "phone": "-",
+      "positionEn": "-",
+      "positionTh": "หัวหน้าฝ่ายเทคโนโลยีสารสนเทศ",
+      "lineId": "KTAM : Nutthapoom",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": []
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นาย ธานินทร์ แซมมณี",
+      "phone": "089-876-9851",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "2 อาคารมหานครเซ็นเตอร์ ชัน 4 ห้อง 404 ซอย ศึกษาวิทยา (สีลม 9) แขวงสีลม เขต บางรัก กรุงเทพฯ",
+      "code": "",
+      "contactPersonEmail": "wirat@deepscope.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "วิรัช ลีนะวงศ์อนันต์",
+      "contactPersonPhone": "-",
+      "nameEn": "Deepscope",
+      "nameTh": "บริษัท หลักทรัพย์ทีปรึกษาการลงทน ดีพสโตป จำกัด",
+      "phone": "089-876-9851",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-08-29T17:00:00.000Z",
+      "email": "wirat@deepscope.com",
+      "fullNameEn": "Wirat Leenavonganan",
+      "fullNameTh": "วิรัช ลีนะวงศ์อนันต์",
+      "phone": "-",
+      "positionEn": "Chief Technology Officer.",
+      "positionTh": "-",
+      "lineId": "wleenavo",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "tanin@deepscope.com ",
+        "fullNameEn": "Tanin Sammanee",
+        "fullNameTh": "ธานินทร์ แซมมณี",
+        "lineId": "tanin.sammanee",
+        "openChatName": "-",
+        "phone": "089-876-9851",
+        "positionEn": "CEO",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นาย ศักดา สรรพปัญญาวงศ",
+      "phone": "093-565-4195",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "511/1 อาคารศูนย์การค้า เดละ วอล์ค สาขาเกษตรนวมินทร์ ห้องเลขที่ ทีเคเอ็นซีบี1 เอ-006 ชั้นที่ บี1 ถนนประเสริฐมนุกิจ แขวงลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร 10230",
+      "code": "",
+      "contactPersonEmail": "apinya@avenger-planner.com",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "อภิญญา ตากสกุล",
+      "contactPersonPhone": "-",
+      "nameEn": "Avenger-Planner",
+      "nameTh": "หลักทรัพย์ที่ปรึกษาการลงทุน อเวนเจอร์ แพลนเนอร์ จำกัด",
+      "phone": "093-565-4195",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-09-16T17:00:00.000Z",
+      "email": "apinya@avenger-planner.com",
+      "fullNameEn": "Apinya Tagsakul",
+      "fullNameTh": "อภิญญา ตากสกุล",
+      "phone": "-",
+      "positionEn": "COO",
+      "positionTh": "-",
+      "lineId": "Apinya Tagsakul",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "chatupong@avenger-planner.com",
+        "fullNameEn": "Chatupong Charoenkitpaiboon",
+        "fullNameTh": "จตุพงษ์ เจริญกิจไพบูลย์",
+        "lineId": "Chatupong Charoenkitpaiboon",
+        "openChatName": "-",
+        "phone": "089-927-3379",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "suwat@avenger-planner.com",
+        "fullNameEn": "Suwat Thamsena",
+        "fullNameTh": "สุวัฒน์ ธรรมเสนา",
+        "lineId": "Suwat Thamsena",
+        "openChatName": "-",
+        "phone": "061-685-6441",
+        "positionEn": "IT",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นางสาวจิณณปภา เมธาตรัยคุณ ",
+      "phone": "02-023-9979",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "140 อาคาร 140 ไวร์เลส ชัน 22 ยูนิต เอ และ ยูนิต บี ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "sanae@nprime.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "เสน่ห์ จันทร์สุวรรณ์",
+      "contactPersonPhone": "02-023-9979 Ext.271",
+      "nameEn": "N Prime Asset Management (THAILAND) CO.,LTD",
+      "nameTh": "บริษัท หลักทรัพย์จัดการกองทน เอ็น ไพร์ม(ประเทศไทย) จำกัด",
+      "phone": "02-023-9979",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2024-10-31T17:00:00.000Z",
+      "email": "sanae@nprime.co.th",
+      "fullNameEn": "Sanae Chansuwan",
+      "fullNameTh": "เสน่ห์ จันทร์สุวรรณ์",
+      "phone": "02-023-9979 Ext.271",
+      "positionEn": "CTO",
+      "positionTh": "-",
+      "lineId": "NPRIME : Sanae",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "Teeramate@nprime.co.th",
+        "fullNameEn": "Teeramate Noansamree",
+        "fullNameTh": "นายธีรเมธ นวลสำลี",
+        "lineId": "NPRIME :Teeramate ",
+        "openChatName": "-",
+        "phone": "02-023-9979 Ext.272",
+        "positionEn": "IT Manager",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "BOTH",
+        "email": "Kavinkiat@nprime.co.th",
+        "fullNameEn": "Kavinkiat Yuengkrai",
+        "fullNameTh": "กวินทร์เกียรติ เยืองกราย",
+        "lineId": "NPRIME :Kavinkiat ",
+        "openChatName": "-",
+        "phone": "02-023-9979 Ext.191",
+        "positionEn": "Compliance",
+        "positionTh": "-",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  },
+  {
+    "ceoProfile": {
+      "email": "-",
+      "fullNameEn": "-",
+      "fullNameTh": "นาย ศักดา มาณวพัฒน์",
+      "phone": "02-180-8088",
+      "positionEn": "-",
+      "positionTh": "-"
+    },
+    "companyProfile": {
+      "addressEn": "-",
+      "addressTh": "540 อาคารเมอร์คิวรี่ทาวเวอร์ ชั้น 21 ห้อง 2101 ถ.เพลินจิต แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330",
+      "code": "",
+      "contactPersonEmail": "atisak@apollowealth.co.th",
+      "contactPersonNameEn": "-",
+      "contactPersonNameTh": "อทิศักดิ์ พจน์สุข",
+      "contactPersonPhone": "086-530-0952",
+      "nameEn": "Apollo Wealth Securities Co.,Ltd",
+      "nameTh": "บริษัท หลักทรัพย์ อพอลโล่ เวลธ์ จำกัด",
+      "phone": "02-180-8088",
+      "sector": "ไม่เป็นสมาชิก AIMC"
+    },
+    "orgAdminProfile": {
+      "effectiveDate": "2025-04-01T17:00:00.000Z",
+      "email": "atisak@apollowealth.co.th",
+      "fullNameEn": "Atisak Phosuk",
+      "fullNameTh": "อทิศักดิ์ พจน์สุข",
+      "phone": "086-530-0952",
+      "positionEn": "SVP IT",
+      "positionTh": "-",
+      "lineId": "LGT :Thanatphong.A",
+      "openChatName": "-",
+      "allowOpenChat": "NO",
+      "isAllowOpenChatChanged": false
+    },
+    "userRequestList": [
+      {
+        "accessType": "BOTH",
+        "email": "pichet@apollowealth.co.th",
+        "fullNameEn": "Pichet Sriwongyartdee",
+        "fullNameTh": "พิเชฐ ศรีวงษ์ญาติดี",
+        "lineId": "kaoniiz",
+        "openChatName": "-",
+        "phone": "095-959-2261",
+        "positionEn": "-",
+        "positionTh": "หัวหน้า ฝ่าย IT",
+        "roleId": 4,
+        "status": "ADD"
+      },
+      {
+        "accessType": "PORTAL",
+        "email": "pisit@apollowealth.co.th",
+        "fullNameEn": "Pisit Wanichpituk",
+        "fullNameTh": "พิสิฐ วานิชพิทักษ์",
+        "lineId": "-",
+        "openChatName": "-",
+        "phone": "083-272-0857",
+        "positionEn": "-",
+        "positionTh": "ผู้อำนวยการ ฝ่าย IT",
+        "roleId": 4,
+        "status": "ADD"
+      }
+    ]
+  }
+]
