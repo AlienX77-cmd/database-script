@@ -1,0 +1,5 @@
+node_modules/
+*.xlsx
+output-registration-data-AIMC.json
+output-registration-data-ASCO.json
+output-registration-data-TDO.json
